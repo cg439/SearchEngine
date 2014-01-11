@@ -1,0 +1,4 @@
+Quick Calculation of Jacobian Elliptic Functions (Corrigendum)
+CACM September, 1962
+Salzer, H. E.
+CA620912 JB March 17, 1978  7:28 PM

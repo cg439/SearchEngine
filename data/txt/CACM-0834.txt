@@ -1,0 +1,5 @@
+Nonrecursive Adaptive Integration (Algorithm 182)
+CACM June, 1963
+McKeeman, W. M.
+Tesler, L.
+CA630615 JB March 14, 1978  10:10 AM

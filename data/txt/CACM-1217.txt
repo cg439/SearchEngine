@@ -1,0 +1,4 @@
+Map of Partitions into Integers (Algorithm 264 [A1])
+CACM August, 1965
+McKay, J. K. S.
+CA650807 JB March 6, 1978  8:19 PM

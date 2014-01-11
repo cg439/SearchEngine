@@ -1,0 +1,6 @@
+A Note on Cheney's Nonrecursive List-Compacting Algorithm
+CACM April, 1972
+Walden, D. C.
+list compacting, garbage collection
+4.19 4.49
+CA720412 JB January 31, 1978  12:32 PM

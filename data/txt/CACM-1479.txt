@@ -1,0 +1,4 @@
+Constrained Exponential Curve Fit (Algorithm 276 [E2])
+CACM February, 1966
+Deily, G. R.
+CA660206b JB March 23, 1978  7:27 PM

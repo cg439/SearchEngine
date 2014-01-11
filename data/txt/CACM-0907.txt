@@ -1,0 +1,4 @@
+Combination in Lexicographical Order (Algorithm 154)
+CACM March, 1963
+Mifsud, C. J.
+CA630313 JB March 14, 1978  1:34 PM

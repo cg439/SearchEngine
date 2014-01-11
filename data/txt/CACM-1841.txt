@@ -1,0 +1,7 @@
+A Prime Number Generator Using The
+Treesort Principle (Algorithm 356 [A1])
+CACM October, 1969
+Singleton, R. C.
+prime numbers, number theory, sorting
+3.15 5.30 5.31
+CA691005 JB February 15, 1978  3:25 PM

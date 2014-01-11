@@ -1,0 +1,9 @@
+Solution of a Problem in Concurrent Programming Control
+A number of mainly independent sequential-cyclic
+processes with restricted means of communication
+with each other can be made in such a way that at any
+moment one and only one of them is engaged in the
+"critical section" of its cycle.
+CACM September, 1965
+Dijkstra, E. W.
+CA650908 JB March 6, 1978  7:24 PM

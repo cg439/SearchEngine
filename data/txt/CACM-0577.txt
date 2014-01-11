@@ -1,0 +1,4 @@
+ANCESTOR (Algorithm 96)
+CACM June, 1962
+Floyd, R. W.
+CA620608 JB March 17, 19789:31 PM

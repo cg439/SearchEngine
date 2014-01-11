@@ -1,0 +1,6 @@
+Minimax Nonlinear Approximation by Approximation on Subsets
+CACM May, 1972
+Dunham, C. B.
+minimax approximation, nonlinear approximation, subset
+5.13
+CA720508 JB January 31, 1978  9:40 AM

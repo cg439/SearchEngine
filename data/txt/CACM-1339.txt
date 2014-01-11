@@ -1,0 +1,5 @@
+A Contribution to the Development of ALGOL
+CACM December, 1966
+Wirth, N.
+Hoare, C. A. R.
+CA661210 JB March 30, 1978  9:13 AM

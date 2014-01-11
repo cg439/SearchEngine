@@ -1,0 +1,5 @@
+Gamma Function with Arbitrary Precision (Algorithm 309 [S14])
+CACM August, 1967
+Filho, A. M.
+Schwachheim, G.
+CA670808 JB February 27, 1978  4:10 PM

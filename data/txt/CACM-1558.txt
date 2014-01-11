@@ -1,0 +1,5 @@
+Generation of Permutations in Pseudo-Lexicographic
+Order (Algorithm  [G6])
+CACM July, 1967
+Ord-Smith, R. J.
+CA670711d JB March 23, 1978  3:16 PM

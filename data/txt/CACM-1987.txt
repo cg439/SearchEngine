@@ -1,0 +1,7 @@
+Student's t-Distribution $S14) (Algorithm 395)
+CACM October, 1970
+Hill, G. W.
+Student's t-statistic, distribution function,
+approximation, asymptotic expansion
+5.12 5.5
+CA701003 JB February 10, 1978  9:31 AM

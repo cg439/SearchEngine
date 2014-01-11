@@ -1,0 +1,4 @@
+Critical Path Scheduling (Algorithm 40)
+CACM October, 1962
+Hellberg, L.
+CA621011 JB March 17, 1978  7:15 PM

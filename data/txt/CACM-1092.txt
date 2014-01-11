@@ -1,0 +1,4 @@
+Nonrecursive Adaptive Integration (Algorithm 182)
+CACM April, 1964
+Butler, H. S.
+CA640416 JB March 10, 1978  12:34 AM

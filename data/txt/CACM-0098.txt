@@ -1,0 +1,5 @@
+The Arithmetic Translator-Compiler of
+the IBM FORTRAN Automatic Coding System
+CACM February, 1959
+Sheridan, P. B.
+CA590203 JB March 22, 1978  8:21 PM

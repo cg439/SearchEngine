@@ -1,0 +1,9 @@
+Generation of Random Correlated Normal Variables [G5] (Algorithm A425)
+CACM May, 1972
+Hurst, R. L.
+Knop, R. E.
+random number, normal density, normal distribution,
+Gaussian density, Gaussian distribution, simulation,
+Monte Carlo
+5.5
+CA720511 JB January 31, 1978  9:35 AM

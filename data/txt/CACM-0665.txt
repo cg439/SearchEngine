@@ -1,0 +1,4 @@
+Gauss-Seidel (Algorithm 220)
+CACM December, 1963
+Shantz, P. W.
+CA631209 JB March 13, 1978  2:55 PM

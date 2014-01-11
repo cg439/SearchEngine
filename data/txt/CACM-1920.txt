@@ -1,0 +1,6 @@
+F-Test Probabilities (Algorithm 346 [S14])
+CACM March, 1969
+Morris, J.
+F-test, Snedecor F-statistic, Fisher Test, distribution function
+5.5
+CA690307 JB February 20, 1978  8:50 AM

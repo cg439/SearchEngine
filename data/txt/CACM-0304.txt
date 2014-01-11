@@ -1,0 +1,4 @@
+Nth Roots of a Complex Number (Algorithm 53)
+CACM July, 1961
+Nestor Jr., C. W.
+CA610713 JB March 16, 1978  10:17 PM

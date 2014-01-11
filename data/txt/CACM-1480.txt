@@ -1,0 +1,4 @@
+Computation of Chebyshev Series Coefficients (Algorithm 277[C6])
+CACM February, 1966
+Smith, L. B.
+CA660206c JB March 23, 1978  7:28 PM

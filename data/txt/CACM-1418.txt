@@ -1,0 +1,5 @@
+Examination Scheduling (Algorithm 286 [ZH])
+CACM June, 1966
+Peck, J. E. L.
+Williams, M. R.
+CA660603a JB March 3, 1978  8:58 AM

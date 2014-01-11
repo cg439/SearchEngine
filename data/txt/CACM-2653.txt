@@ -1,0 +1,4 @@
+Solution of the Transcendental Equation w*exp(x)=x (Algorithm R443)
+CACM April, 1974
+Einarsson, B.
+CA740417 JB January 17, 1978  4:44 PM

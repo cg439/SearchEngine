@@ -1,0 +1,6 @@
+The Storage Requirement in Precedence Parsing
+CACM March, 1977
+Bertsch, E.
+precedence parsing, storage requirement, value table
+4.12 5.22
+CA770310JB December 29, 1977  6:34 AM

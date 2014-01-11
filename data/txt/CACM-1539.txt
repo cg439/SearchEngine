@@ -1,0 +1,6 @@
+Prime Number Generator 1; Prime Number Generator
+2 (Algorithm 35[A1]; Algorithm 310[A1]; Algorithm
+311[A1])
+CACM September, 1967
+Chartres, B. A.
+CA670907c JB March 23, 1978  2:37 PM

@@ -1,0 +1,4 @@
+FACTORIAL (Algorithm 33)
+CACM February, 1961
+Lipp, M. F.
+CA610213 JB March 17, 1978  12:50 AM

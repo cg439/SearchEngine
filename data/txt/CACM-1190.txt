@@ -1,0 +1,5 @@
+Pseudo-Random Numbers (Algorithm 266 [G5])
+CACM October, 1965
+Pike, M. C.
+Hill, I. D.
+CA651005 JB March 6, 1978  6:51 PM

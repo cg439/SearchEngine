@@ -1,0 +1,5 @@
+A Computer Routine for Quadratic and Linear
+Programming Problems (Algorithm R431)
+CACM October, 1974
+Proll, L. G.
+CA741009 JB January 16, 1978  11:10 AM

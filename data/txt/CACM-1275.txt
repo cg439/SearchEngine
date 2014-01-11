@@ -1,0 +1,5 @@
+Code Structures for Protection and Manipulation
+of Variable Length Items (Corrigendum)
+CACM April, 1965
+Ramamoorthy, C. V.
+CA650416 JB March 7, 1978  3:31 PM

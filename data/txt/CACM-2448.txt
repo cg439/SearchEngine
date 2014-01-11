@@ -1,0 +1,6 @@
+Reversible Execution
+CACM September, 1973
+Zelkowitz, M. V.
+debugging, PL/I, reversible execution, backtracking
+4.22 4.42
+CA730907 JB January 23, 1978  8:54 AM

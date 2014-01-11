@@ -1,0 +1,7 @@
+Zeros of a Complex Polynomial [C2] (Algorithm A419)
+CACM February, 1972
+Jenkins, M. A.
+Traub, J. F.
+roots, roots of a polynomial, zeros of a polynomial
+5.15
+CA720206 JB January 31, 1978  4:14 PM

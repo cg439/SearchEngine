@@ -1,0 +1,8 @@
+SALE, a Simple Algebraic Language for Engineers
+CACM October, 1959
+Brittenham, W. R.
+Clark, K.
+Kuss, G.
+Thompson, H.
+Smith, A. O.
+CA591005 JB March 22, 1978  4:14 PM

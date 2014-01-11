@@ -1,0 +1,6 @@
+More on kth Shortest Paths
+CACM May, 1975
+Fox, B.
+networks, kth shortest paths
+5.32
+CA750510 JB January 9, 1978  2:24 PM

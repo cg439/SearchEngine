@@ -1,0 +1,4 @@
+CROUT With Pivoting (Algorithm 16)
+CACM September, 1960
+Forsythe, G. E.
+CA600905 JB March 20, 1978  8:47 PM

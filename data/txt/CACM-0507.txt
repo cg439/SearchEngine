@@ -1,0 +1,4 @@
+Partition, Quicksort, Find (Algorithm 63, 64, 65)
+CACM August, 1962
+Hillmore, J. S.
+CA620821 JB March 17, 1978  9:32 PM

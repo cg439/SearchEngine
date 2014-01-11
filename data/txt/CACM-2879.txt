@@ -1,0 +1,9 @@
+Computer Science as Empirical Inquiry: Symbols and Search
+CACM March, 1976
+Newell, A.
+Simon, H. A.
+symbols, search, science, computer science, empirical,
+Turing, artificial intelligence, intelligence,
+list processing, cognition, heuristics, problem solving
+1.0 2.1 3.3 3.6 5.7
+CA760301 JB January 5, 1978  8:39 AM

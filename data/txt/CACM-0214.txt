@@ -1,0 +1,4 @@
+An Algorithm Defining ALGOL Assignment Statements
+CACM March, 1960
+Floyd, R. W.
+CA600304 JB March 22, 1978  2:01 PM

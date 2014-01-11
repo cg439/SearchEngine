@@ -1,0 +1,16 @@
+The Use of Quadratic Residue Research
+A quadratic residue search method has previously been suggested
+to avoid the clustering usually encountered when hash address collisions
+occur and linear search methods are used.  The search size, because
+of the property of quadratic residues, is limited to one half of
+the storage table.  It is shown that for some classes of prime numbers
+the complement of the set of quadratic residues can easily be determined and
+hence the entire table of size p, where p is that prime number, can be searched.
+CACM February, 1970
+Radke, C. E.
+quadratic residue, search method, hash addressing, address
+clustering, scatter storage, file searching, file
+addressing, hash coding, quadratic search,
+random search, storage layout, searching
+3.7 3.73 3.74
+CA700206 JB February 14, 1978  10:30 AM

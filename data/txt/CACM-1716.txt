@@ -1,0 +1,8 @@
+Normal Random Deviates (Algorithm 334 [G5])
+CACM July, 1968
+Bell, J. R.
+normal deviates, normal distribution, random number,
+random number generator, simulation, probability
+distribution, frequency distribution, random
+5.5 5.13
+CA680713 JB February 22, 1978  11:26 AM

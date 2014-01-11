@@ -1,0 +1,17 @@
+Mixed Solutions for the Deadlock Problem
+Mixtures of detection, avoidance, and prevention
+provide more effective and practical solutions
+to the deadlock problem than any one of these alone.  The
+individual techniques can be tailored for subproblems
+of resource allocation and still operate together to
+prevent deadlocks.  This paper presents a method,
+based on the concept of the hierarchical operating
+system, for constructing appropriate mixtures and
+suggests appropriate subsystems for the most frequently
+occurring resource allocation problems
+CACM July, 1973
+Howard, J. H. Jr.
+deadlocks, resource allocation, operating systems,
+multiprogramming, hierarchical systems
+4.30 4.32
+CA730704 JB January 23, 1978  12:46 PM

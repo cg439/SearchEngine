@@ -1,0 +1,6 @@
+On Harrison's Substring Testing Technique
+CACM March, 1973
+Bookstein, A.
+string, substring, hashing, information storage and retrieval
+3.74 5.30 5.5
+CA730307 JB January 24, 1978  10:30 AM

@@ -1,0 +1,5 @@
+Normal Curve Integral (Algorithm 304 [S15])
+CACM June, 1967
+Hill, I. D.
+Joyce, S. A.
+CA670607b JB March 23, 1978  3:27 PM

@@ -1,0 +1,10 @@
+The Problem of Programming Communication with
+Changing Machines A Proposed Solution (Part 1)
+CACM August, 1958
+Strong, J.
+Wegstein, J.
+Tritter, A.
+Olsztyn, J.
+Mock, O.
+Steel, T.
+CA580804 JB March 22, 1978  9:02 PM

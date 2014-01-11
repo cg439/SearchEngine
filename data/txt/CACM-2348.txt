@@ -1,0 +1,6 @@
+Merge Sort Algorithm [M1] (Algorithm A426)
+CACM May, 1972
+Bron, C.
+sort, merge
+5.31
+CA720512 JB January 31, 1978  9:33 AM

@@ -1,0 +1,6 @@
+A Note on When To Chain Overflow Items Within a Direct-Access Table
+CACM January, 1973
+Bays, C.
+hash code, open hash, chaining, information retrieval, collision
+3.7 4.9
+CA730109 JB January 24, 1978  4:07 PM

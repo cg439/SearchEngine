@@ -1,0 +1,8 @@
+A Comparison of Heaps and the TL Structure for the SImulation Event Set
+None
+CACM October, 1978
+Franta, W.
+Maly, K.
+Simulation,event set, heaps, TL structure
+3.34 4.22 5.5 8.1
+CA781010 DH January 29, 1979  11:51 AM

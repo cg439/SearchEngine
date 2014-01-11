@@ -1,0 +1,4 @@
+Bit Manipulation in Fortran Language
+CACM June, 1965
+Tobey, G. D.
+CA650611 JB March 6, 1978  10:12 PM

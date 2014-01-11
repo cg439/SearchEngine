@@ -1,0 +1,5 @@
+An Extension to ALGOL for Manipulating Formulae*
+CACM February, 1964
+Perlis, A. J.
+Iturriaga, R.
+CA640211 JB March 10, 1978  3:45 AM

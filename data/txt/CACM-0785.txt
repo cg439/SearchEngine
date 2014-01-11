@@ -1,0 +1,4 @@
+Conversions Between Calendar Date And Julian day Number (Algorithm 199)
+CACM August, 1963
+Tantzen, R. G.
+CA630813 JB March 13, 1978  8:34 PM

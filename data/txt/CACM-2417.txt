@@ -1,0 +1,6 @@
+Four Combinatorial Algorithms [G6] (Algorithm A466)
+CACM November, 1973
+Ehrlich, G.
+permutations and combinations
+5.39
+CA731109 JB January 20, 1978  9:59 AM

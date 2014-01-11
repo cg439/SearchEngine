@@ -1,0 +1,4 @@
+Legendre Polynomial (Algorithm 13)
+CACM April, 1961
+Herndon, J.
+CA610428 JB March 16, 1978  11:37 PM

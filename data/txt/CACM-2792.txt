@@ -1,0 +1,4 @@
+Jacobi Polynomials (Algorithm R332)
+CACM February, 1975
+Skovgaard, O.
+CA750207 JB January 10, 1978  9:32 AM

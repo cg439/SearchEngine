@@ -1,0 +1,8 @@
+Characteristic Values and Associated Solutions of
+Mathieu's Differential Equation (Algorithm 352 $S22))
+CACM December, 1970
+Sale, A. H. J.
+Mathieu's differential equation, Mathieu function, characteristic
+value, periodic solution, radial solution
+5.12
+CA701208 JB February 9, 19783:10 PM

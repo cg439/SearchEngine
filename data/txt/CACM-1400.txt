@@ -1,0 +1,9 @@
+Free-Text Inputs to Utility Routines
+Through the use of some rather simple techniques,
+it is frequently possible to produce a program
+which will accept free-text inputs.  The techniques are
+discussed and related to a general tape manipulation
+routine.
+CACM July, 1966
+Blum, R. I.
+CA660712 JB March 2, 1978  8:32 PM

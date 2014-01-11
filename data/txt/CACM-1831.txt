@@ -1,0 +1,6 @@
+A Comment on Optimal Tree Structures
+CACM October, 1969
+Stanfel, L. E.
+information retrieval, file searching, tree structures, double chaining
+3.70 3.73 3.74
+CA691015 JB February 15, 1978  1:31 PM

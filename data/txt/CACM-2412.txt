@@ -1,0 +1,8 @@
+Comment on Brent's Scatter Storage Algorithm
+CACM November, 1973
+Feldman, J. A.
+Low, J. R.
+Hashing, information storage and retrieval,
+scatter storage, searching, symbol table
+3.7 3.73 3.74 4.1 4.9
+CA731114 JB January 19, 1978  4:40 PM

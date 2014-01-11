@@ -1,0 +1,4 @@
+Crout with Equilibration and Iteration (Algorithm 135 [F4])
+CACM February, 1965
+Meissner, L. P.
+CA650205 JB March 7, 1978  11:15 PM

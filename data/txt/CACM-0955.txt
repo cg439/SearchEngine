@@ -1,0 +1,4 @@
+A Class of Matrices to Test Inversion Procedures
+CACM December, 1964
+Cline, R. E.
+CA641216 JB March 9, 1978  3:16 PM

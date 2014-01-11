@@ -1,0 +1,4 @@
+Evaluation of Definite Complex Line Integrals (Algorithm 98)
+CACM June, 1962
+Pfaltz, J. L.
+CA620610 JB March 17, 1978  9:29 PM

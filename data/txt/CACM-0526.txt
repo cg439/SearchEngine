@@ -1,0 +1,4 @@
+Character Manipulation in Fortran
+CACM August, 1962
+Pyle, I. C.
+CA620802 JB March 17, 1978  7:33 PM

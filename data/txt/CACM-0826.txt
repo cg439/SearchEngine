@@ -1,0 +1,4 @@
+Remarks on Fortran Subroutines for Time Series Analysis
+CACM June, 1963
+Bennett, C. M.
+CA630623 JB March 14, 1978  10:00 AM

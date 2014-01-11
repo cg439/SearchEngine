@@ -1,0 +1,4 @@
+Legendre Functions for Arguments Larger Than One (Algorithm 259 [S16])
+CACM August, 1965
+Gautschi, W.
+CA650802 JB March 6, 1978  8:30 PM

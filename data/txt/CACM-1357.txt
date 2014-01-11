@@ -1,0 +1,4 @@
+Examination Scheduling (Algorithm 286 [H])
+CACM November, 1966
+Williams, R.
+CA661103c JB March 23, 1978  4:20 PM

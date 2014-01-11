@@ -1,0 +1,4 @@
+Inversion of a Complex Matrix
+CACM September, 1961
+Tornheim, L.
+CA610911 JB March 16, 1978  1:44 PM

@@ -1,0 +1,5 @@
+Another Method of Converting from Hexadecimal to Decimal
+CACM March, 1970
+Kailas, M. V.
+binary-decimal conversion, computer arithmetic categories
+CA700312 JB February 13, 1978  3:41 PM

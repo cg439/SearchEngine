@@ -1,0 +1,5 @@
+Generalized Least Squared Fit By Orthogonal
+Polynomials (Algorithm 296 [E2])
+CACM February, 1967
+Makinson, G. J.
+CA670203b JB March 23, 1978  4:13 PM

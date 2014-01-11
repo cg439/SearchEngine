@@ -1,0 +1,4 @@
+Position of Point Relative to Polygon (Algorithm 112)
+CACM August, 1962
+Shimrat, M.
+CA620804 JB March 17, 1978  7:30 PM

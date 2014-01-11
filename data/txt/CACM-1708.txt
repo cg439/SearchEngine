@@ -1,0 +1,14 @@
+A Note on the Efficiency of a LISP Computation in a Paged Machine
+The problem of the use of two levels of storage
+for programs is explored in the context of
+a LISP system which uses core memory as a buffer for
+a large virtual memory stored on a drum.  Details
+of timing are given for one particular problem.
+CACM August, 1968
+Borrow, D. G.
+Murphy, D. L.
+storage management, list processor implementation,
+LISP, paging, secondary storage utilization,
+efficiency of paged computation
+3.7 4.1 4.2
+CA680806 JB February 22, 1978 10:45 AM

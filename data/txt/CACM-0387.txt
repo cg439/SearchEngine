@@ -1,0 +1,4 @@
+Gamma Function (Algorithm 31)
+CACM February, 1961
+Collinge,R. M.
+CA610211 JB March 17, 1978  12:53 AM

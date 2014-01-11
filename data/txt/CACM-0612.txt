@@ -1,0 +1,5 @@
+Permute (Algorithm 86)
+CACM April, 1962
+Peck, J. E. L.
+Schrack, G. F.
+CA620405 JB March 20, 1978  2:21 PM

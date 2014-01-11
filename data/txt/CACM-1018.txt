@@ -1,0 +1,4 @@
+Gauss (Algorithm 209 [S15])
+CACM August, 1964
+Pike, M. C.
+CA640812 JB March 9, 1978  6:54 PM

@@ -1,0 +1,4 @@
+A Technique for Counting Ones in a Binary Computer
+CACM May, 1960
+Wegner, P.
+CA600505 JB March 22, 1978  1:30 PM

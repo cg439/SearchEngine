@@ -1,0 +1,7 @@
+Sorting Nonredundant Files-Techniques Used in the FACT Compiler
+Some typical file structures, including some
+called "non-redundant," are examined,and the
+methods used in FACT to sort such files are discussed.
+CACM May, 1963
+Glore, J. B.
+CA630510 JB March 14, 1978  11:16 AM

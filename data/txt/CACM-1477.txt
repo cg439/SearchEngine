@@ -1,0 +1,5 @@
+EULER: A Generalization of ALGOL, and its Formal Definition: Part II*
+CACM February, 1966
+Wirth, N.
+Weber, H.
+CA660207 JB March 3, 1978  3:10 PM

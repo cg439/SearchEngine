@@ -1,0 +1,6 @@
+A Number System for the Permutations
+CACM March, 1970
+Pager, D.
+permutation, ordering, number, number system, p-number, combinatorial
+4.49 5.39
+CA700311 JB February 13, 1978  3:42 PM

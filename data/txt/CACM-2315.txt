@@ -1,0 +1,11 @@
+The Production of Better Mathematical Software
+Some observations are made on steps to be
+taken toward the creation of better mathematical
+software.  These steps suggest the need for a coordinated
+effort and the creation of a center to focus
+activities in this area.
+CACM July, 1972
+Fosdick, L. D.
+mathematical software, programming
+4.0
+CA720713 JB January 30, 1978  1:32 PM

@@ -1,0 +1,4 @@
+Evaluation of Determinant (Algorithm 41)
+CACM September, 1963
+Freed, B. H.
+CA630917 JB March 13, 1978  7:24 PM

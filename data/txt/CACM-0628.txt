@@ -1,0 +1,5 @@
+On a Floating-Point Number Representation
+For Use with Algorithmic Languages
+CACM March, 1962
+Grau, A. A.
+CA620304 JB March 20, 1978  3:09 PM

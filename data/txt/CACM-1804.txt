@@ -1,0 +1,7 @@
+Coloring Polygonal Regions (Algorithm 364 [Z])
+CACM December, 1969
+Herriot, R. G.
+coloring polygonal regions, coloring planar surfaces,
+drawing pictures, shading enclosed regions
+4.9
+CA691208 JB February 15, 1978  2:27 PM

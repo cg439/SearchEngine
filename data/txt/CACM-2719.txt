@@ -1,0 +1,20 @@
+Mechanical Program Analysis
+One means of analyzing program performance
+is by deriving closed-form expressions for their
+execution behavior.  This paper discusses the mechanization
+of such analysis, and describes a system,
+Metric, which is able to analyze simple Lisp programs
+and produce, for example, closed-form expressions
+for their running time expressed in terms of size of input.
+This paper presents the reasons for mechanizing
+program analysis, describes the operation of Metric, explains
+its implementation, and discusses its limitations.
+CACM September, 1975
+Wegbreit, B.
+analysis of programs, performance analysis, execution
+time, execution behavior, difference equations,
+generating functions, list processing, Lisp, algebraic
+manipulation, programming languages, analysis
+of algorithms
+3.69 4.22 5.24 5.25
+CA750905 JB January 6, 1978  2:11 PM

@@ -1,0 +1,8 @@
+Normal Deviate [S14] (Algorithm A442)
+CACM January, 1973
+Hill, G. W.
+Davis, A. W.
+normal distribution inverse, probit
+transform, Taylor series approximation
+5.12 5.5
+CA730113 JB January 24, 1978  3:39 PM

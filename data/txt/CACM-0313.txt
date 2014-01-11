@@ -1,0 +1,4 @@
+An Iterative Method for Inversion of Power Series
+CACM July, 1961
+Bramhall, J. N.
+CA610704 JB March 16, 1978  10:26 PM

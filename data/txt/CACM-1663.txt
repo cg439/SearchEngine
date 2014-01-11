@@ -1,0 +1,6 @@
+Generator of Random Numbers Satisfying the Poisson distribution [G5])
+CACM December, 1968
+Snow, R. H.
+Poisson distribution, random number generator, Monte Carlo
+5.12 5.5
+CA681203 JB February 21, 1978  1:45 PM

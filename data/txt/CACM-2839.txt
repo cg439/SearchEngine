@@ -1,0 +1,12 @@
+An Insertion Technique for One-Sided Height-Balanced Trees
+A restriction on height-balanced binary trees
+is presented.  It is seen that this restriction
+reduces the extra memory requirements by half (from
+two extra bits per node to one) and maintains fast
+search capabilities at a cost of increased
+time requirements for inserting new nodes.
+CACM August, 1976
+Hirschberg, D. S.
+balanced, binary, search, trees
+3.73 3.74 4.34 5.25 5.31
+CA760805 JB January 4, 1978  10:04 AM

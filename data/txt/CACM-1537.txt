@@ -1,0 +1,4 @@
+Prime Number Generator 1 (Algorithm 310 [A1])
+CACM September, 1967
+Chartres, B. A.
+CA670907a JB February 27, 1978  3:12 PM

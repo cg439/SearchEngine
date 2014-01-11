@@ -1,0 +1,5 @@
+Permutation Generator (Algorithm 87)
+CACM October, 1962
+Schrack, G. F.
+Shimrat, M.
+CA621013 JB March 17, 1978  7:14 PM

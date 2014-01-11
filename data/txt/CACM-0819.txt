@@ -1,0 +1,4 @@
+Polynomial Evaluation Revised
+CACM July, 1963
+Eisman, S. H.
+CA630705 JB March 14, 1978  8:46 AM

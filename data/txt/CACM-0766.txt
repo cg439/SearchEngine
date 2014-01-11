@@ -1,0 +1,4 @@
+XY-move Plotting (Algorithm 162)
+CACM August, 1963
+Fletcher, W. E.
+CA630832 JB March 13, 1978  8:12 PM

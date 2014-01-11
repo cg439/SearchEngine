@@ -1,0 +1,7 @@
+An Algorithm for Extracting Phrases in
+a Space-Optimal Fashion [Z] (Algorithm A444)
+CACM March, 1973
+Wagner, R. A.
+information retrieval, coding, text compression
+3.70 5.6
+CA730309 JB January 24, 1978  10:26 AM

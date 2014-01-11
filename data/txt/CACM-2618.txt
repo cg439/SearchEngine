@@ -1,0 +1,9 @@
+A New Solution of Dijkstra's Concurrent Programming Problem
+A simple solution to the mutual exclusion problem
+is presented which allows the system to continue
+to operate despite the failure of any individual component.
+CACM August, 1974
+Lamport, L.
+critical section, concurrent programming, multiprocessing, semaphores
+4.32
+CA740806 JB January 17, 1978  9:48 AM

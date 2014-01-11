@@ -1,0 +1,4 @@
+Crout with Equilibration and Iteration (Algorithm 135)
+CACM November, 1962
+McKeeman, W. M.
+CA621107 JB March 17, 1978  6:51 PM

@@ -1,0 +1,4 @@
+RUNCIBLE-Algebraic Translation on a Limited Computer
+CACM November, 1959
+Knuth, D. E.
+CA591104 JB March 22, 1978  3:52 PM

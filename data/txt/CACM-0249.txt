@@ -1,0 +1,5 @@
+Specification Languages for Mechanical Languages
+and Their Processors*-A Baker's Dozen
+CACM December, 1961
+Gorn, S.
+CA611201 JB March 15, 1978  10:32 PM

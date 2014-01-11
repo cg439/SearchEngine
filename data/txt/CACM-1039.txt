@@ -1,0 +1,4 @@
+Summation of Fourier Series (Algorithm 128 [C6])
+CACM July, 1964
+Thacher Jr., H. C.
+CA640708 JB March 9, 1978  8:16 PM

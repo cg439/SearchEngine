@@ -1,0 +1,4 @@
+FORTRAN Subroutines for Time Series Data Reduction*
+CACM March, 1964
+MacGowan, R. A.
+CA640314 JB March 10, 1978  2:39 AM

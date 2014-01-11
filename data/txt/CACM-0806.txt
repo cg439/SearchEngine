@@ -1,0 +1,4 @@
+Remark on Certification of Matrix Inversion Procedures
+CACM July, 1963
+Moler, C.
+CA630718 JB March 14, 1978  8:21 AM

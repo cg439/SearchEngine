@@ -1,0 +1,6 @@
+Computer Methods for Sampling from the Exponential
+and Normal Distributions (Corrigendum)
+CACM December, 1972
+Ahrens, J. H.
+Dieter, U.
+CA721205 JB January 27, 1978  11:20 AM

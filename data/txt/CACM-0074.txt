@@ -1,0 +1,4 @@
+A High-Speed Sorting Procedure
+CACM July, 1959
+Shell, D. L.
+CA590704 JB March 22, 1978  6:20 PM

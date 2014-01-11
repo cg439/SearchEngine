@@ -1,0 +1,4 @@
+Derivatives (Algorithm 282 [S22])
+CACM April, 1966
+Gautschi, W.
+CA660403d JB March 23, 1978  7:18 PM

@@ -1,0 +1,6 @@
+Clenshaw-Curtis Quadrature [D1] (Algorithm A424)
+CACM May, 1972
+Gentleman, W.
+quadrature, Chebyshev series, cosine transform, fast Fourier transform
+5.1
+CA720510 JB January 31, 1978  9:37 AM

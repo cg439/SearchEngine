@@ -1,0 +1,4 @@
+Free Field Read (Algorithm 239 [I5])
+CACM August, 1964
+McKeeman, W. M.
+CA640810 JB March 9, 1978  6:56 PM

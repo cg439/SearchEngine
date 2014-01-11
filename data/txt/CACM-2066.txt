@@ -1,0 +1,6 @@
+An Algol Construction for Procedures as Parameters of Procedures
+CACM April, 1970
+Knight, K. R.
+Algol, procedures, parameters, side effects
+4.22
+CA700418 JB February 13, 1978  2:30 PM

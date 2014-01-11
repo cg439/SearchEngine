@@ -1,0 +1,4 @@
+Rational Interpolation by Continued Fractions (Algorithm 18)
+CACM September, 1960
+Floyd, R. W.
+CA600907 JB March 20, 1978  8:44 PM

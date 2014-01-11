@@ -1,0 +1,4 @@
+Matrix Division (Algorithm 197)
+CACM March, 1964
+Wells, M.
+CA640307 JB March 10, 1978  3:35 AM

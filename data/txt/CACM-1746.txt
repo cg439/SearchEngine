@@ -1,0 +1,13 @@
+Protection in an Information Processing Utility
+One of the critical problems in the design
+of an information processing utility that permits
+flexible sharing of user information is privacy.
+One solution for this problem is discussed.
+CACM May, 1968
+Graham, R.
+protection, privacy, information processing utility,
+time-sharing, multi-user, multiprogramming,
+multiprocessing, security, shared information, controlled
+access, reliable operation, segmentation
+4.32 4.39
+CA680510 JB February 23, 1978 8:52 AM

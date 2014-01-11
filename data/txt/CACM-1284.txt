@@ -1,0 +1,4 @@
+Bessel Function for a Set of Integer Orders
+CACM April,1965
+Stafford, J.
+CA650407 JB March 7, 1978  3:54 PM

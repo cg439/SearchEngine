@@ -1,0 +1,5 @@
+NELIAC-A Dialect of ALGOL
+CACM August, 1960
+Huskey, H. D.
+Halstead, M. H.
+CA600801 JB March 20, 1978  9:03 PM

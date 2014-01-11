@@ -1,0 +1,4 @@
+Coordinates on an Ellipsoid (Algorithm 240 [Z])
+CACM September, 1964
+Dorrer, E.
+CA640906 JB March 9, 1978  6:09 PM

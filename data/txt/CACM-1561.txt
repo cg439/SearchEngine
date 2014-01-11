@@ -1,0 +1,4 @@
+The Mutual Primal-Dual Method (Algorithm 285 [H])
+CACM July, 1967
+Spath, H.
+CA670711g JB March 23, 1978  3:21 PM

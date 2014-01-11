@@ -1,0 +1,7 @@
+Real Time Plotting of Approximate Contour Maps
+None
+CACM September, 1978
+Ward, S.
+Contour map, digital plotting, graphical characters
+3.10 3.20 4.41 8.2
+CA780910 DH January 29, 1979  6:33 PM

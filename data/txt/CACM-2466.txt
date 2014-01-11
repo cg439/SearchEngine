@@ -1,0 +1,7 @@
+Enumerating Combinations of m Out of n Objects [G6] (Algorithm A452)
+CACM August, 1973
+Liu, C. N
+Tang, D. T.
+permutations, combination
+5.30
+CA730808 JB January 23, 1978  10:39 AM

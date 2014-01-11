@@ -1,0 +1,6 @@
+Increasing the Efficiency of Quicksort (Algorithm 402 $M1))
+CACM November, 1970
+Van Emden, M. H.
+sorting, quicksort
+5.31 3.73 5.6 4.49
+CA701110 JB February 9, 1978  4:32 PM

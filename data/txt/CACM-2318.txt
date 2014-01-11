@@ -1,0 +1,13 @@
+The Role of Computer System Models in Performance Evaluation
+Models constitute a useful means of investigating
+computer system performance.  This paper
+examines the interrelationships between models and other
+methods for evaluating the performance of computer
+systems and establishes circumstances under
+which the use of a model is appropriate.
+CACM July,1972
+Kimbleton, S. R.
+modeling, evaluation, performance, analytic-models,
+simulation-models, system-models
+2.43 2.44 6.2 8.3
+CA720710 JB January 30, 1978  2:03 PM

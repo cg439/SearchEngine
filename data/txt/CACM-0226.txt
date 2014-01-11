@@ -1,0 +1,5 @@
+Solution of Polynomial Equation by
+Bairstow-Hitchcock Method (Algorithm 3)
+CACM February, 1960
+Grau, A. A.
+CA600206 JB March 22, 1978  2:20 PM

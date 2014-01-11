@@ -1,0 +1,6 @@
+A Numbering Systems for Combinations
+CACM January, 1974
+Knott, G. D.
+combinatorics, coding system, storage mapping function
+4.9 5.30
+CA740109 JB January 18, 1978  1:42 PM

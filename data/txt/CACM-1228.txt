@@ -1,0 +1,4 @@
+Treesort 3 (Algorithm 245 [M1])
+CACM July, 1965
+Abrams, P. S.
+CA650707 JB March 6, 1978  8:59 PM

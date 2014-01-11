@@ -1,0 +1,4 @@
+Modular Data Processing Systems Written in COBOL
+CACM May, 1962
+Emery, J. C.
+CA620508 JB March 20, 1978  1:47 PM

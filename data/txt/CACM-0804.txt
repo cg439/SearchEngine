@@ -1,0 +1,4 @@
+Exponentiation of Series (Algorithms 134)
+CACM July, 1963
+Thacher Jr., H. C.
+CA630720 JB March 14, 1978  8:19 AM

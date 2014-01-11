@@ -1,0 +1,7 @@
+Modified Romberg Quadrature (Algorithm 351 $D1))
+CACM June, 1970
+Wallick, G. C.
+numerical integration, Romberg quadrature, modified Romberg quadrature,
+trapezoid values, rectangle values
+5.16
+CA700615 JB February 13, 1978  10:27 AM

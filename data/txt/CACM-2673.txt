@@ -1,0 +1,6 @@
+Quadratic Search for Hash Tables of Size p^n
+CACM March, 1974
+Ackerman, A. F.
+hashing, quadratic search
+4.10
+CA740310 JB January 18, 1978  10:58 AM

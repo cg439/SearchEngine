@@ -1,0 +1,4 @@
+Stringsort (Algorithm 207)
+CACM October, 1963
+Boothroyd, J.
+CA631009 JB March 13,1978  5:54 PM

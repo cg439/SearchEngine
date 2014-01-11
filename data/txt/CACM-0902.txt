@@ -1,0 +1,4 @@
+Determinant (Algorithm 159)
+CACM March, 1963
+Digby, D. W.
+CA630318 JB March 14, 1978  1:28 PM

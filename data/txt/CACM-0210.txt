@@ -1,0 +1,5 @@
+Recursive Functions of Symbolic Expressions
+and Their Computation by Machine, Part I
+CACM April, 1960
+McCarthy, J.
+CA600401 JB March 22, 1978  1:57 PM

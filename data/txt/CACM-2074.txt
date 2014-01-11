@@ -1,0 +1,9 @@
+Sqank (Algorithm 379 $D1))
+CACM April, 1970
+Lyness, J. N.
+numerical integration, integration rule, adaptive integration,
+automatic integration, Simpson's rule, numerical quadrature, quadrature,
+quadrature rule, adaptive quadrature,
+automatic quadrature, round-off error control
+5.16
+CA700410 JB February 13, 1978  2:46 PM

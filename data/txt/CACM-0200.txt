@@ -1,0 +1,4 @@
+Bessel Function I, Asymptotic Expansion (Algorithm 6)
+CACM April, 1960
+Clarke, D. S.
+CA600411 JB March 22, 1978  1:39 PM

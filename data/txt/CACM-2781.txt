@@ -1,0 +1,9 @@
+The Algorithm Sequential Access Method:
+An Alternative to Index Sequential
+CACM March, 1975
+Whitt, J. D.
+Sullenberger, A. G.
+keys, direct access method, sequential access
+method, randomizing information retrieval
+3.7
+CA750307 JB January 9, 1978  4:37 PM

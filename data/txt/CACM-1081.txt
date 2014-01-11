@@ -1,0 +1,4 @@
+Normal Distribution Function (Algorithm 226)
+CACM May, 1964
+Cyvin, S. J.
+CA640508 JB March 9, 1978  11:58 PM

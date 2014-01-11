@@ -1,0 +1,10 @@
+Structures of Standards-Processing Organizations in the Computer Area
+In line with the ACM's policy statement [Comm. ACM 5 (Nov. 1962), 547-549],
+the following organizational descriptions have been provided in order to
+describe standardization activities pertinent to computers and information
+processing.
+CACM June, 1966
+Gorn, S.
+Bemer, R. W.
+Green, J.
+CA630626 ES March 17, 1982 10:10 AM

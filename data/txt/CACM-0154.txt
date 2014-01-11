@@ -1,0 +1,4 @@
+Rapidly Convergent Expressions for Evaluating e^x
+CACM September, 1960
+Berin, A.
+CA600903 JB March 20, 1978  8:49 PM

@@ -1,0 +1,4 @@
+Find Precedence Functions (Algorithm 265 [L2])
+CACM October, 1965
+Wirth, N.
+CA651004 JB March 6, 1978  6:52 PM

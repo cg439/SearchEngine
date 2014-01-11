@@ -1,0 +1,5 @@
+A Suggested Method of Making Fuller Use of Strings in ALGOL 60
+CACM April, 1963
+Shoffner, M. G.
+Brown, P. J.
+CA630423 JB March 14, 1978  11:45 AM

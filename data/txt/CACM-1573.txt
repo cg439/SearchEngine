@@ -1,0 +1,5 @@
+An Adaptive Quadrature Procedure with
+Random Panel Sizes (Algorithm [D1])
+CACM June, 1967
+Gallaher, L. J.
+CA670607a JB February 28, 1978  9:17 AM

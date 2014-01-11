@@ -1,0 +1,5 @@
+Logarithm of Gamma Function (Algorithm 291 [S14])
+CACM September, 1966
+Pike, M. C.
+Hill, I. D.
+CA660909bJB March 23, 1978  4:24 PM

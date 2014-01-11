@@ -1,0 +1,6 @@
+Minimal Spanning Tree [H] (Algorithm A422)
+CACM April, 1972
+Whitney, V. K. M.
+spanning tree, minimal spanning tree, maximal spanning tree
+5.32
+CA720410 JB January 31, 1978  12:36 PM

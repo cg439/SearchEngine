@@ -1,0 +1,4 @@
+Magic Squares (Algorithm 117 & 118)
+CACM January, 1963
+Naur, P.
+CA630115 JB March 14, 1978  2:31 PM

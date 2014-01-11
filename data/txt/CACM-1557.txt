@@ -1,0 +1,4 @@
+Symmetric Group Characters (Algorithm 307 [A1])
+CACM July, 1967
+McKay, J. K. S.
+CA670711c JB March 23, 1978  3:15 PM

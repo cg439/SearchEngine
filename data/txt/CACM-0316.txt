@@ -1,0 +1,6 @@
+An Algorithm for Equivalence Declarations
+CACM July, 1961
+Arden, B. W.
+Galler, A.
+Graham, R. M.
+CA610701 JB March 16, 1978  10:29 PM

@@ -1,0 +1,18 @@
+A New Method for Determining Linear Precedence
+Functions for Precedence Grammars
+The precedence relations of a precedence grammar can
+be precisely described by a two-dimensional
+precedence matrix.  Often the information in the matrix
+can be represented more concisely by a pair of
+vectors, called linear precedence functions.  A new algorithm
+is presented for obtaining the linear precedence
+functions when given the precedence matrix; this algorithm
+is shown to possess several computational
+advantages.
+CACM October, 1969
+Bell, J. R.
+Boolean matrices, syntax, precedence grammar context-free
+parsing, transition matrix, precedence
+functions
+4.12
+CA691010 JB February 15, 1978  3:13 PM

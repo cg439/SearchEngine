@@ -1,0 +1,4 @@
+Shuttlesort (Algorithm 175)
+CACM May, 1964
+Juelich, O. C.
+CA640514 JB March 9, 1978  11:52 PM

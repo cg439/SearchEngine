@@ -1,0 +1,7 @@
+The Use of Threaded Lists in Constructing a Combined
+ALGOL and Machine-Like Assembly Processor
+CACM January, 1961
+Evans Jr., A.
+Perlis, A. J.
+Van Zoeren, H.
+CA610108 JB March 17, 1978  1:20 AM

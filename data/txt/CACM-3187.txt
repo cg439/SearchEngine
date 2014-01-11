@@ -1,0 +1,7 @@
+Certification of Algorithm 271 (QUICKERSORT)
+QUICKERSORT compiled and run without correction through the ALDEP translator
+for the CDC 1604A. Comparison of average sorting items with other recently
+published algorithms demonstrates QUICKERSORT's superior performance.
+CACM May, 1966
+Blair, C.
+CA660516 ES March 17, 1982 10:10 AM

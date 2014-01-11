@@ -1,0 +1,4 @@
+Combination in any Order (Algorithm 155)
+CACM March, 1963
+Mifsud, C. J.
+CA630314 JB March 14, 1978  1:33 PM

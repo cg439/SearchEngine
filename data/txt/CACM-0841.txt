@@ -1,0 +1,5 @@
+Shuttle Sort (Algorithm 175)
+CACM June, 1963
+Shaw, C. J.
+Trimble, T. N.
+CA630608 JB March 14, 1978  10:20 AM

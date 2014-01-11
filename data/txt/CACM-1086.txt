@@ -1,0 +1,5 @@
+A Proposal for Input-Output Conventions in ALGOL
+60-A Report of the Subcommittee on ALGOL of
+the ACM Programming Language Committee
+CACM May, 1964
+CA640501 JB March 10, 1978  12:18 AM

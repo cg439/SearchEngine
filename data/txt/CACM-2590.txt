@@ -1,0 +1,4 @@
+Hypergeometric (Algorithm C191)
+CACM October, 1974
+Kopelaar, H.
+CA741008 JB January 16, 1978  11:14 AM

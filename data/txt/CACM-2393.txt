@@ -1,0 +1,9 @@
+Calculation of Fourier Integrals [D1] (Algorithm A418)
+CACM January, 1972
+Einarsson, B.
+quadrature, Filon quadrature, integration, Filon integration,
+Fourier coefficients, Fourier integrals,
+Fourier series, spline, spline approximation, spline
+quadrature, extrapolation, Richardson extrapolation
+5.16
+CA720110 JB February 1, 1978  9:00 AM

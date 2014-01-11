@@ -1,0 +1,4 @@
+Matrix Inversion (ALgorithm 58)
+CACM May, 1961
+Cohen, D.
+CA610506 JB March 16, 1978  11:03 PM

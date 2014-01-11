@@ -1,0 +1,4 @@
+ROOTFINDER (Algorithm 2)
+CACM August, 1960
+Thacher Jr., H. C.
+CA600807 JB March 20, 1978  8:56 PM

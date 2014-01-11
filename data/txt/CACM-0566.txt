@@ -1,0 +1,4 @@
+Matrix Inversion (Algorithm 58)
+CACM June, 1962
+Conger, R. A.
+CA620619 JB March 17, 1978  9:19 PM

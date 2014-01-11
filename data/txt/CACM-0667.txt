@@ -1,0 +1,4 @@
+Kutta Merson (Algorithm 218)
+CACM December, 1963
+Lukehart, P. M.
+CA631207 JB March 13, 1978  2:57 PM

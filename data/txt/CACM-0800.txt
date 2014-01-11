@@ -1,0 +1,6 @@
+The Linking Segment Subprogram Language and Linking Loader
+CACM July, 1963
+McCarthy, J.
+Corbato, F. J.
+Daggett, M. M.
+CA630724 JB March 14, 1978  8:13 AM

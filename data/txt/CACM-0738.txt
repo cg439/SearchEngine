@@ -1,0 +1,4 @@
+Fourier Series Approximation (Algorithm 157)
+CACM September, 1963
+George, R.
+CA630920 JB March 13, 1978  7:20 PM

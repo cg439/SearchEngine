@@ -1,0 +1,13 @@
+Compilation for Two Computers with NELIAC
+NELIAC, a compiler based on ALGOL, was developed
+at the U. Navy Electronics Laboratory, San
+Diego,California, as a"boot-strap" compiler for the Remington
+Rand Univac COUNTESS computer. This compiler
+was used to generate a version of itself which, running
+as a COUNTESS program, generated machine code
+for the Control Data Corporation CDC-1604.  All three
+versions of NELIAC accepted essentially identical
+input language.
+CACM November, 1960
+Masterson Jr., K. S.
+CA601112 JB March 20, 1978  7:03 PM

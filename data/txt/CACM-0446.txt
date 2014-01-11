@@ -1,0 +1,4 @@
+Simpson's Integration (Algorithm 84)
+CACM November, 1962
+Behrenz, P. G.
+CA621115 JB March 17, 1978  6:04 PM

@@ -1,0 +1,4 @@
+Monitors: An Operating System Structuring Concept (Corrigendum)
+CACM February, 1975
+Hoare, C. A. R.
+CA750203 JB January 12, 1978  8:45 AM

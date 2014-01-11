@@ -1,0 +1,4 @@
+MADCAP: A Scientific Compiler for a Displayed Formula Textbook Language
+CACM January, 1961
+Wells, M. B.
+CA610107 JB March 17, 1978  1:21 AM

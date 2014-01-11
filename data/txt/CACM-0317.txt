@@ -1,0 +1,4 @@
+On The Approximation of Curves by Line Segments Using Dynamic Programming
+CACM June, 1961
+Bellman, R.
+CA610608 JB March 16, 1978  10:31 PM

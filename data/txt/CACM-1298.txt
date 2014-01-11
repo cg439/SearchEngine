@@ -1,0 +1,4 @@
+Adaptive Numerical Integration by Simpson's Rule (Algorithm 145 [D1])
+CACM March, 1965
+Pike, M. C.
+CA650309 JB March 7, 1978  6:03 PM

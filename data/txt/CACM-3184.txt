@@ -1,0 +1,9 @@
+Revised Report on the Algorithmic Language ALGOL 60
+The report gives a complete defining description of the international
+algorithmic language ALGOL 60. This is a language suitable for expressing
+a large class of numerical processes in a form sufficiently concise for
+direct automatic translation into the language of programmed automatic
+computers.
+CACM January, 1963
+Nuar, P.
+CA630117 ES March 17, 1982 10:10 AM

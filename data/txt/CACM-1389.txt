@@ -1,0 +1,13 @@
+A Programmer's Description of L^6
+Bell Telephone Laboratories' Low-Linked List Language
+L^6 (pronounced "L-six") is a new programming
+language for list structure manipulations.  It contains
+many of the facilities which underlie such list
+processors as IPL, LISP, COMIT ad SNOBOL, but permits
+the user to get much closer to machine code in
+order to write faster-running programs, to use storage
+more efficiently and to build a wider variety
+of linked data structures.
+CACM August, 1966
+Knowlton, K. C.
+CA660809 JB March 2, 1978  7:20 PM

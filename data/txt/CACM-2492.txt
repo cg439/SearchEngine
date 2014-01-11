@@ -1,0 +1,14 @@
+The Development of Decision Tables via
+Parsing of Complex Decision Situations
+A new parsing technique is proposed which allows
+parsing based only on syntactical characteristics
+of the decision problem.  It requires a description
+of the problem in decision grid chart format and
+allows the development of decision tables within defined
+limits by avoiding, or at least minimizing,
+repetition of conditions and actions in the resulting tables.
+CACM June, 1973
+Strunz, H.
+decision tables, parsing, decision grid chart,problem analysis
+4.0 4.1 4.2
+CA730608 JB January 23, 1978  2:10 PM

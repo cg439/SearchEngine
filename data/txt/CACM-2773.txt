@@ -1,0 +1,5 @@
+A Weighted Buddy Method for Dynamic Storage Allocation (Corrigendum)
+CACM April, 1975
+Shen, K. K.
+Peterson, J. L.
+CA750404 JB January 9, 1978  4:06 PM

@@ -1,0 +1,7 @@
+Reflection-Free Permutations, Rosary Permutations,
+and Adjacent Transposition Algorithms
+CACM May, 1973
+Roy, M. K.
+permutation, permutation generation, scheduling, combinatorial analysis
+5.39
+CA730515 JB January 23, 1978  4:29 PM

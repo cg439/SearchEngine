@@ -1,0 +1,4 @@
+Matrix Inversion (Algorithm 58)
+CACM December, 1962
+Behrenz, P. G.
+CA621216 JB March 17, 1978  4:57 PM

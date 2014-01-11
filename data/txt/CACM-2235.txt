@@ -1,0 +1,6 @@
+Decision Table Translation (Algorithm R394)
+CACM December, 1972
+Marshall, D. R. T.
+decision table, decision table translation
+4.19
+CA721220 JB January 27, 1978  8:53 AM

@@ -1,0 +1,10 @@
+Experience with an Extensible Language
+An operational extensible language system is described.
+The system and its base language are appraised with
+respect to efficiency, flexibility, and utility
+for different categories of users.
+CACM January, 1970
+Irons, E. T.
+programming languages, extensible, compiler, bootstrapping, ambiguity
+4.12 4.22
+CA700105 JB February 14, 1978  2:02 PM

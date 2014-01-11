@@ -1,0 +1,4 @@
+Fibonaccian Searching
+CACM December, 1960
+Ferguson, D. E.
+CA601206 JB March 20, 1978  6:38 PM

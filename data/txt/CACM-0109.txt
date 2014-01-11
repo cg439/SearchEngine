@@ -1,0 +1,4 @@
+A Note on Approximating e^x
+CACM December, 1960
+Lubkin, S.
+CA601207 JB March 20, 1978  6:37 PM

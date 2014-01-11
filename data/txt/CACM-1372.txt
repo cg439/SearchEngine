@@ -1,0 +1,5 @@
+Direct Search (Algorithm 178 [E4])
+CACM September, 1966
+Bell, M.
+Pike, M. C.
+CA660909c JB March 23, 1978  4:25 PM

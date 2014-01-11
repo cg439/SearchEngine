@@ -1,0 +1,4 @@
+Additional Comments on a Problem in Concurrent Progamming Control
+CACM December, 1966
+Knuth, D. E.
+CA661211 JB March 30, 1978  9:12 AM

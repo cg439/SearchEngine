@@ -1,0 +1,4 @@
+Bitwise Operations
+CACM March, 1961
+Strachey, C.
+CA610303 JB March 17, 1978  12:42 AM

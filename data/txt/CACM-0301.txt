@@ -1,0 +1,4 @@
+A Set of Test Matrices (Algorithm 52)
+CACM August, 1961
+Gilbert, H. E.
+CA610803 JB March 16, 1978  10:13 PM

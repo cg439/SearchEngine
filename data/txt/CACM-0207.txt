@@ -1,0 +1,4 @@
+Syntactic and Semantic Augments to ALGOL
+CACM April, 1960
+Smith, J. W.
+CA600404 JB March 22, 1978  1:54 PM

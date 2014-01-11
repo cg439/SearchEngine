@@ -1,0 +1,6 @@
+Generation of Random Permutations (Algorithm 362 [G6])
+CACM November, 1969
+Robson, J. M.
+permutation, random permutation, transposition
+5.5
+CA691110 JB February 15, 1978  12:15 PM

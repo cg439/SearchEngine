@@ -1,0 +1,7 @@
+A Comment on Axiomatic Approaches to Programming
+CACM July, 1970
+Hunt, B.
+axiomatic method, proofs of programs,
+homomorphic structure in programming
+4.0 4.21 4.22 5.20 5.21 5.23 5.24
+CA700716 JB February 10, 1978  4:15 PM

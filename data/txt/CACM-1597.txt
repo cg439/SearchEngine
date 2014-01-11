@@ -1,0 +1,4 @@
+Transpose Vector Stored Array (Algorithm 302 [K2])
+CACM May, 1967
+Boothroyd, J.
+CA670506b JB March 23, 1978  4:00 PM

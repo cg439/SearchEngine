@@ -1,0 +1,4 @@
+A Correspondence Between ALGOL 60 and Church's Lambda-Notation: Part II*
+CACM March, 1965
+Landin, P. J.
+CA650304 JB March 7, 1978  6:09 PM

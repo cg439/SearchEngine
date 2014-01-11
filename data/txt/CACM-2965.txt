@@ -1,0 +1,6 @@
+An Optimal Evaluation of Boolean Expressions in an Online Query System
+CACM May, 1977
+Hanani, M. Z.
+query, Boolean expression, information retrieval, file organization
+3.5 3.70 3.74
+CA770507 JB December 29, 1977  1:51 AM

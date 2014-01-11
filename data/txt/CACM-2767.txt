@@ -1,0 +1,25 @@
+A Comparison of Simulation Event List Algorithms
+Four algorithms are considered which can be used
+to schedule events in a general purpose discrete
+simulation system.  Two of the algorithms are new, one
+is based on an end-order tree structure for event
+notices, and another uses an indexed linear list. The algorithms
+are tested with a set of typical stochastic
+scheduling distributions especially chosen to show
+the advantages and limitations of the algorithms.
+The end-order tree algorithm is shown to be an advantageous,
+immediate replacement for the algorithm
+in use with current simulation languages.  The most
+promising algorithm uses the indexed list concept.
+It will require an adaptive routine before it can
+be employed in general purpose simulators,but its
+performance is such that further study would be fruitful.
+CACM April, 1975
+Vaucher, J. G.
+Duval, P.
+simulation, time flow mechanisms, event list algorithm,
+simulation, time flow mechanisms, event
+list algorithm, simulation executive, event scheduling
+routine, discrete system simulation, sorting
+3.74 4.22 8.1
+CA750410 JB January 9, 1978  3:43 PM

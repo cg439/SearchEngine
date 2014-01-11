@@ -1,0 +1,17 @@
+A Survey of the Literature in Computer
+Science Education Since Curriculum '68
+A bibliography of approximately two hundred
+references in computer science education appearing
+in the literature since the publication of "Curriculum
+'68" is presented.  The bibliography itself is
+preceded by brief descriptive materials organizing the
+references into the categories of survey reports,
+activities of professional organizations, philosophy
+of programs, description of  programs, description
+of courses and other materials.
+CACM January, 1977
+Austing, R. H.
+Barnes, B. H.
+education, computer science, curricula
+1.5
+CA770102 JB January 3, 1978  12:34 AM

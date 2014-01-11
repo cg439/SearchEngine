@@ -1,0 +1,8 @@
+Student's t-Distribution; Jacobi Polynomials;
+Modified Romberg Quadrature;
+Factorial Analysis of Variance; (Algorithms 332,344,351,359)
+CACM July, 1970
+Sale, A. H. J.
+Fortran standards
+4.0 4.22
+CA700712 JB February 10, 1978  4:26 PM

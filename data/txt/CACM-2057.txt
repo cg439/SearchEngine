@@ -1,0 +1,7 @@
+Random Vectors Uniform in Solid Angle (Algorithm 381 $G5))
+CACM May, 1970
+Knop, R. E.
+random number, random vector, random number generator, probability
+distribution, frequency distribution, simulation, Monte Carlo
+5.5
+CA700509 JB February 13, 1978  1:19 PM

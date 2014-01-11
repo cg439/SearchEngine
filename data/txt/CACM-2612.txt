@@ -1,0 +1,4 @@
+Rosenbrock Function Minimization (Algorithm R450)
+CACM August, 1974
+Bultheel, A.
+CA740812 JB January 17, 1978  9:33 AM

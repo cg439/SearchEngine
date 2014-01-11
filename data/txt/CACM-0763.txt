@@ -1,0 +1,7 @@
+A Syntax Controlled Generator of Formal Language Processors
+CACM August, 1963
+Eickel, J.
+Bauer, F. L.
+Paul, M.
+Samelson, K.
+CA630835 JB March 13, 1978  8:08 PM

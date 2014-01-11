@@ -1,0 +1,6 @@
+An Algorithm to Produce Complex Primes, Csieve (Algorithm 372 $A1))
+CACM January, 1970
+Dunham, K. B.
+primes, complex numbers
+5.39
+CA700111 JB February 14, 1978  1:47 PM

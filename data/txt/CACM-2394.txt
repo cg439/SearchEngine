@@ -1,0 +1,8 @@
+Ordering +-f(+-f(+-f(...+-f(x)..))) When f(x) Is Positive Monotonic
+CACM January, 1972
+Salzer, H. E.
+ordering, storage, retrieval, positive functions,
+monotonic functions, increasing functions, decreasing
+function, binary system, Chebyshev zeros, square rots, continued fractions
+5.40
+CA720109 JB February 1, 1978  9:05 AM

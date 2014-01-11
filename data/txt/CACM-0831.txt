@@ -1,0 +1,4 @@
+Real Error Function, ERF (Algorithm 123)
+CACM June, 1963
+Thacher Jr., H. C.
+CA630618 JB March 14, 1978  10:07 AM

@@ -1,0 +1,4 @@
+Graycode (Algorithm 246 [Z])
+CACM June, 1965
+Allen, W. D.
+CA650616 JB March 6, 1978  9:50 PM

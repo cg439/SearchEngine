@@ -1,0 +1,4 @@
+A Generalization of ALGOL
+CACM September, 1963
+Wirth, N.
+CA630929 JB March 13, 1978  7:02 PM

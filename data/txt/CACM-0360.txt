@@ -1,0 +1,4 @@
+Evaluation of Determinant (Algorithm 41)
+CACM April, 1961
+Solomon, J. G.
+CA610408 JB March 17, 1978  12:04 AM

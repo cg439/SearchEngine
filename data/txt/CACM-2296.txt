@@ -1,0 +1,6 @@
+Compiling Fixed-Point Multiplications
+CACM August, 1972
+Bernstein, H. J.
+compiling multiplications, fixed-point arithmetic
+4.12
+CA720806 JB January 30, 1978  9:42 AM

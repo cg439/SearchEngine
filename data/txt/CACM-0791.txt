@@ -1,0 +1,4 @@
+Character Manipulation in 7090 Fortran
+CACM August, 1963
+Smith, D. D.
+CA630807 JB March 13, 1978  8:41 PM

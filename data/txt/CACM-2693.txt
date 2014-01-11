@@ -1,0 +1,9 @@
+Bivariate Interpolation and Smooth Surface Fitting
+Based on Local Procedures [E2] (Algorithm
+A474)
+CACM January, 1974
+Akima, H.
+bivariate interpolation, interpolation, partial
+derivative, polynomial, smooth surface fitting
+5.13
+CA740106 JB January 18, 1978  2:07 PM

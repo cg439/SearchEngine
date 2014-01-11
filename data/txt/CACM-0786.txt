@@ -1,0 +1,4 @@
+Adaptive Integration and Multiple Integration (Algorithm 198)
+CACM August, 1963
+McKeeman, W. M.
+CA630812 JB March 13, 1978  8:35 PM

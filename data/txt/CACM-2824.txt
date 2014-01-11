@@ -1,0 +1,9 @@
+An Improvement to Martin's Algorithm for
+Computation of Linear Precedence Functions
+CACM October, 1976
+Duong-Kien, C.
+Hoffmann, H. J.
+Muth, D.
+syntax analysis, precedence functions, Boolean matrices
+4.12
+CA761007 JB January 3, 1978  4:13 PM

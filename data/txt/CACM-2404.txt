@@ -1,0 +1,7 @@
+Exponential Integrals [S13] (Algorithm A471)
+CACM December, 1973
+Gautschi, W.
+exponential integral, recurrence relations,
+recursive computation, continued fractions
+5.12
+CA731204 JB January 19, 1978  2:48 PM

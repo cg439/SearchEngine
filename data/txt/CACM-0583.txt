@@ -1,0 +1,4 @@
+A Redundancy Check for ALGOL Programs
+CACM June, 1962
+Thacher Jr., H. C.
+CA620602 JB March 17, 1978  9:37 PM

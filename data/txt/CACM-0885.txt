@@ -1,0 +1,4 @@
+Modified Hankel Function (Algorithm 163)
+CACM April, 1963
+Fettis, H. E.
+CA630406 JB March 14, 1978  12:26 PM

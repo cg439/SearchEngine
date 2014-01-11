@@ -1,0 +1,4 @@
+Magic Square (Algorithm 117 & 118)
+CACM March, 1963
+Bosworth, K. M.
+CA630321 JB March 14, 1978  1:02 PM

@@ -1,0 +1,4 @@
+Techniques for Storage Allocation Algorithms
+CACM October, 1961
+Kelley Jr., J. E.
+CA611011 JB March 16, 1978  12:50 PM

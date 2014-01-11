@@ -1,0 +1,4 @@
+Gomory (Algorithm 153)
+CACM February, 1963
+Bauer, F. L.
+CA630210 JB March 14, 1978  2:12 PM

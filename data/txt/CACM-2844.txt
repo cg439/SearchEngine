@@ -1,0 +1,7 @@
+Heaps Applied to Event Driven Mechanisms
+CACM July, 1976
+Gonnet, G. H.
+discrete event simulation, event-scanning
+mechanisms, priority queues, heaps
+4.34 8.1
+CA760709 JB January 4, 1978  11:05 AM

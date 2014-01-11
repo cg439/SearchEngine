@@ -1,0 +1,5 @@
+Problems of Storage Allocation in
+a Multiprocessor Multiprogrammed System
+CACM October, 1961
+Maher, R. J.
+CA611004 JB March 16, 1978  1:12 PM

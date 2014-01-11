@@ -1,0 +1,4 @@
+On Multiprogramming, Machine Coding, and Computer Organization
+CACM April, 1970
+Wirth, N.
+CA700405 JB February 13, 1978  3:05 PM

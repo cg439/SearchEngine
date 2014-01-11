@@ -1,0 +1,6 @@
+A Sparse Matrix Package (Algorithm R408)
+CACM May, 1973
+Sale, R. H. J.
+matrix, sparse matrix, matrix manipulation, Fortran standards
+5.14
+CA730514 JB January 23, 1978  4:30 PM

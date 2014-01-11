@@ -1,0 +1,4 @@
+Exponential Curve Fit (Algorithm 295 [E2])
+CACM February, 1967
+Spath, H.
+CA670203a JB February 28, 1978  3:57 PM

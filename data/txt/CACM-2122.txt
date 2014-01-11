@@ -1,0 +1,7 @@
+General Random Number Generator (Algorithm 370 $G5))
+CACM January, 1970
+Butler, E. L.
+random number generator, probability density function,
+transformation, cumulative density function
+5.13 5.5
+CA700109 JB February 14, 1978  1:50 PM

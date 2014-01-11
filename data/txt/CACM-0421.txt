@@ -1,0 +1,4 @@
+Position of Point Relative to Polygon (Algorithm 112)
+CACM December, 1962
+Hacker, R.
+CA621218 JB March 17, 1978  4:54 PM

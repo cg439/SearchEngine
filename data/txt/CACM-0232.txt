@@ -1,0 +1,5 @@
+A High-Speed Sorting Procedure
+CACM January, 1960
+Frank, R. M.
+Lazarus, R. B.
+CA600104 JB March 22, 1978  2:27 PM

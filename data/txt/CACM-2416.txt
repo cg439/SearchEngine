@@ -1,0 +1,7 @@
+Matrix Transposition in Place [F1] (Algorithm A467)
+CACM November, 1973
+Brenner, N.
+transposition, matrix operations, permutations,
+primitive roots, number theory
+3.15 5.14 5.39
+CA731110JB January 20, 1978  9:58 AM

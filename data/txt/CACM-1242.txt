@@ -1,0 +1,4 @@
+Modified Graeffe Method (Algorithm 256 [C2])
+CACM June, 1965
+Grau, A. A.
+CA650613 JB March 6, 1978  10:10 PM

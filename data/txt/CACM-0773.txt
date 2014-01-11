@@ -1,0 +1,4 @@
+Matrix Inversion (Algorithm 140)
+CACM August, 1963
+George, R.
+CA630825 JB March 13, 1978  8:20 PM

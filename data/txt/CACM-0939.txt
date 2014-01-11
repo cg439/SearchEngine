@@ -1,0 +1,4 @@
+Gamma Function (Algorithm 31)
+CACM January, 1963
+Behrenz, P. G.
+CA630109 JB March 14, 1978  2:37 PM

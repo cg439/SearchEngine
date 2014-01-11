@@ -1,0 +1,8 @@
+Hu-Tucker Minimum Redundancy Alphabetic
+Coding Method [Z] (Algorithm A428)
+CACM May, 1972
+Yohe, J. M.
+information theory, coding theory, Hu-Tucker
+method, minimum redundancy coding
+5.6
+CA720514 JB January 31, 1978  9:30 AM

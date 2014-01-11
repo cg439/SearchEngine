@@ -1,0 +1,4 @@
+The Execute Operations-A Fourth Mode of Instruction Sequencing
+CACM March, 1960
+Brooks, F. P.
+CA600303 JB March 22, 1978  2:02 PM

@@ -1,0 +1,4 @@
+The Complex Method for Constrained Optimization (Algorithm R454)
+CACM August, 1974
+Shere, K. D.
+CA740813 JB January 17, 1978  9:28 AM

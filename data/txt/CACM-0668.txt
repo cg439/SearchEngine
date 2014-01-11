@@ -1,0 +1,4 @@
+Minimum Excess Cost Curve (Algorithm 217)
+CACM December, 1963
+Briggs, W. A.
+CA631206 JB March 13, 1978  2:58 PM

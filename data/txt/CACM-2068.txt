@@ -1,0 +1,6 @@
+Comment on Multiprogramming Under a Page on Demand Strategy
+CACM April, 1970
+Smith, J. L.
+multiprogramming, paging, modeling
+4.32
+CA700416 JB February 13, 1978  2:34 PM

@@ -1,0 +1,6 @@
+Compiling Techniques for Boolean Expressions
+and Conditional Statements in ALGOL 60
+CACM January, 1961
+Huskey, H. D.
+Wattenburg, W. H.
+CA610115 JB March 17, 1978  1:12 AM

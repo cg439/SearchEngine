@@ -1,0 +1,4 @@
+Erf(x) (Algorithm 123)
+CACM October, 1963
+Ibbetson, D.
+CA631018 JB March 13, 1978  5:40 PM

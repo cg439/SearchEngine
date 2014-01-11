@@ -1,0 +1,4 @@
+Romberg Integration (Algorithm 60)
+CACM June, 1961
+Bauer, F. L.
+CA610601 JB March 16, 1978  10:57 PM

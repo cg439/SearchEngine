@@ -1,0 +1,8 @@
+The Algorithm SELECT-for Finding the ith
+Smallest of n Elements [M1] (Algorithm 489)
+CACM March, 1975
+Floyd, R. W.
+Rivest, R. L.
+selection, medians, quantiles
+5.30 5.39
+CA750305 JB January 9, 1978  4:43 PM

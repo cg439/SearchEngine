@@ -1,0 +1,4 @@
+A Counterintuitive Example of Computer Paging (Corrigendum)
+CACM April, 1976
+Fagin, R.
+CA760404 JB January 4, 1978  4:19 PM

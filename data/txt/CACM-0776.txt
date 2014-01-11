@@ -1,0 +1,5 @@
+Partition, Quicksort, and Find (Algorithm 62, 64, & 65)
+CACM August, 1963
+Randell, B.
+Russell, L. J.
+CA630822 JB March 13, 1978  8:23 PM

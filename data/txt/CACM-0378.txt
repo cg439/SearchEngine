@@ -1,0 +1,5 @@
+A Generalized Technique for Symbol
+Manipulation and Numerical Calculation
+CACM March, 1961
+Ross, D. T.
+CA610304 JB March 17, 1978  12:42 AM

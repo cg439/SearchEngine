@@ -1,0 +1,7 @@
+Multiple Exits from a Loop Without the GOTO
+CACM July, 1973
+Bochmann, G. V.
+control structures, goto free programming,
+multiple exits from loops, exit statement
+4.20 4.22
+CA730709 JB January 23, 1978  11:23 AM

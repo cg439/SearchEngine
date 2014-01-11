@@ -1,0 +1,5 @@
+Permutation (Algorithm 71)
+CACM April, 1962
+Peck, J. E. L.
+Schrack, G. F.
+CA620409 JB March 20, 1978  2:18 PM

@@ -1,0 +1,4 @@
+JACOBI (Algorithm 85)
+CACM August, 1962
+Hillmore, J. S.
+CA620827 JB March 17, 1978  9:24 PM

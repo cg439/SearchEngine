@@ -1,0 +1,4 @@
+A Global Parser for Context-Free Phrase Structure Grammars
+CACM June, 1968
+Unger, S. H.
+CA680608 JB February 22, 1978  4:08 PM

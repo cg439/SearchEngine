@@ -1,0 +1,5 @@
+Compiling Matrix Operations
+CACM December, 1962
+Galler, B. A.
+Perlis, A. J.
+CA621202 JB March 17, 1978  5:17 PM

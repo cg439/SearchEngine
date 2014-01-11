@@ -1,0 +1,12 @@
+On Implementation of Label Variables
+Variables of label mode are conventionally
+implemented with a technique which fails to trap
+certain programming errors.  Fine-grained calendar clocks
+have recently become available; these allow
+implementation of label variables via a new technique
+which traps all programming errors of this variety.
+CACM May, 1971
+Fenichel, R. R.
+labels, compiler, interpreter, go to, transfer
+4.22
+CA710506 JB February 3, 1978  2:31 PM

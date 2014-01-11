@@ -1,0 +1,7 @@
+Eigenvalues and Eigenvectors of a Real
+Symmetric Matrix $F2) (Algorithm 384)
+CACM June, 1970
+Stewart, G. W.
+real symmetric matrix, eigenvalues, eigenvectors, QR algorithm
+5.14
+CA700612 JB February 13, 1978  10:34 AM

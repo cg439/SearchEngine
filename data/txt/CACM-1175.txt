@@ -1,0 +1,4 @@
+Quickersort (Algorithm 271 [M1])
+CACM November, 1965
+Scowen, R. S.
+CA651106 JB March 6, 1978  5:02 PM

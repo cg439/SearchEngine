@@ -1,0 +1,4 @@
+A Generalized Polyphase Merge Algorithm
+CACM November, 1961
+Reynolds, S. W.
+CA611104 JB March 15, 1978  10:56 PM

@@ -1,0 +1,4 @@
+Bounded Context Syntactic Analysis
+CACM February, 1964
+Floyd, R. W.
+CA640202 JB March 10, 1978  4:56 AM

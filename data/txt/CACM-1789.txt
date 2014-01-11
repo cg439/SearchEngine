@@ -1,0 +1,4 @@
+Logarithm of Gamma Function (Algorithm 291 [S14])
+CACM January, 1968
+Hoare, M. R.
+CA680104 JB February 23, 1978  2:45 PM

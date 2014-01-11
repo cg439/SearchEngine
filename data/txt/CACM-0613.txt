@@ -1,0 +1,4 @@
+JACOBI (Algorithm 85)
+CACM April, 1962
+Evans, T. G.
+CA620404 JB March 20, 1978  2:22 PM

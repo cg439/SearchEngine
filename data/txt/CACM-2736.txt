@@ -1,0 +1,7 @@
+A Note on Hash Linking
+CACM July, 1975
+Bobrow, D. G.
+hash search, address space extension,
+implicit pointers, monitor conditions
+3.7 3.73 4.1
+CA750706 JB January 9, 1978 9:59 AM

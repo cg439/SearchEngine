@@ -1,0 +1,4 @@
+Netflow (Algorithm 248 [H])
+CACM February, 1965
+Briggs, W. A.
+CA650202 JB March 7, 1978  11:18 PM

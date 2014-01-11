@@ -1,0 +1,4 @@
+Permutations of a Set with Repetitions (Algorithm 242 [G6])
+CACM October, 1964
+Sag, T. W.
+CA641006 JB March 9, 1978  4:49 PM

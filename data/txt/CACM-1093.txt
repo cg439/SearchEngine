@@ -1,0 +1,4 @@
+Evaluation of Determinant (Algorithm 224)
+CACM April, 1964
+Rotenberg, L. J.
+CA640415 JB March 10, 1978  1:12 AM

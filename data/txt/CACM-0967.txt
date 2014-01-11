@@ -1,0 +1,5 @@
+Complementary Error Function (Algorithm 181 [S15])
+CACM December, 1964
+Clausen, I.
+Hansson,L.
+CA641204 JB March 9, 1978  3:42 PM

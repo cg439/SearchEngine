@@ -1,0 +1,4 @@
+Uniform Random (Algorithm 294 [G5])
+CACM January, 1967
+Strome, W. M.
+CA670107 JB February 28, 1978  4:37 PM

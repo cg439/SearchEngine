@@ -1,0 +1,11 @@
+On Compiling Algorithms for Arithmetic Expressions
+This paper deals with algorithms concerning arithmetic
+expressions used in a FORTRAN IV compiler
+for a HITAC-5020 computer having n accumulators.  The
+algorithms generate an object code which minimizes
+the frequency of storing and recovering the partial results
+of the arithmetic expressions in cases where
+there are several accumulators.
+CACM August, 1967
+Nakata, I.
+CA670804 JB February 27, 1978  4:35 PM

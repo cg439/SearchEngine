@@ -1,0 +1,4 @@
+RATFACT (Algorithm 78)
+CACM March, 1962
+Halstead, M. H.
+CA620312 JB March 20, 1978  3:00 PM

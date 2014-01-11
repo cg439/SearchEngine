@@ -1,0 +1,15 @@
+The Predictive Analyzer and a Path Elimination Technique
+Some of the characteristic features of a predictive
+analyzer, a system of syntactic analysis
+now operational at Harvard on and IBM 7094, are delineated.
+The advantages and disadvantages of the
+system are discussed in comparison to those of an immediate
+constituent analyzer, developed at the RAND
+Corporation with Robinson's English grammar.  In addition,
+a new technique is described for repetitive
+path elimination for a predictive analyzer, which can
+now claim efficiency both in processing time and
+core storage requirement.
+CACM July, 1965
+Kuno, S.
+CA650710 JB March 6, 1978  8:52 PM

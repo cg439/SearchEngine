@@ -1,0 +1,4 @@
+Combinatorial Of M Things Taken N At A Time (Algorithm 160)
+CACM October, 1963
+Blakely, R. E.
+CA631020 JB March 13, 1978  5:36 PM

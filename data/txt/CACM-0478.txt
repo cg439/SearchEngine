@@ -1,0 +1,4 @@
+Implementing a Stack
+CACM October, 1962
+Baecker, H.
+CA621002 JB March 17, 1978  7:25 PM

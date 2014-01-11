@@ -1,0 +1,4 @@
+Exponentiation of Series (Algorithm 158)
+CACM September, 1963
+Lawrence, J. D.
+CA630921 JB March 13, 1978  7:19 PM

@@ -1,0 +1,9 @@
+An Example in "Significant-Digit" Arithmetic*
+Different methods of handling the summing process
+for the geometric series are shown to give
+results indicating widely differing significances when carried
+out in a machine incorporating "significant-digit"
+arithmetic.
+CACM January, 1964
+Miller, R. H.
+CA640107 JB March 10, 1978  5:34 AM

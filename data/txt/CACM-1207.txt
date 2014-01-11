@@ -1,0 +1,4 @@
+Remarks on Simulation of Boolean Functions
+CACM August, 1965
+Dodd, G. G.
+CA650817 JB March 6, 1978  7:52 PM

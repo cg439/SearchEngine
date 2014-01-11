@@ -1,0 +1,4 @@
+Treesort 3 (Algorithm [M1])
+CACM December, 1964
+Floyd, R. W.
+CA641201 JB March 9, 1978  3:45 PM

@@ -1,0 +1,5 @@
+Arithmetizing Declarations: An Application to COBOL
+CACM January, 1963
+Conway, M. E.
+Speroni, J.
+CA630103 JB March 14, 1978  3:03 PM

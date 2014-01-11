@@ -1,0 +1,8 @@
+Filon Quadrature (Algorithm [D1])
+CACM August, 1969
+Chase, S. M.
+Fosdick, L. D.
+quadrature, Filon quadrature, integration, Filon
+integration, Fourier coefficients, Fourier series
+5.16
+CA690806 JB February 15, 1978  5:52 PM

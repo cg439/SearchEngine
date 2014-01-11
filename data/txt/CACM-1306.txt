@@ -1,0 +1,9 @@
+A Class of Unambiguous Computer Languages
+Discussed in this paper is the concept of
+a fully nested computer language which may be one
+means of designing computer languages which would be completely
+free of ambiguities.  Several suggestions
+are also given here for the redefinition of ALGOL as a fully nested language.
+CACM March, 1965
+Johnston, J. B.
+CA650301 JB March 7, 1978  6:26 PM

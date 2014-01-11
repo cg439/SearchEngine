@@ -1,0 +1,4 @@
+Elementary Functions by Continued Fractions (Algorithm 229)
+CACM May, 1964
+Morelock, J. C.
+CA640511 JB March 9, 1978  11:55 PM

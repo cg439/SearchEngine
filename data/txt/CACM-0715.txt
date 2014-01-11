@@ -1,0 +1,4 @@
+Discrete Convolution (Algorithm 208)
+CACM October, 1963
+Foreman Jr., W. T.
+CA631010 JB March 13, 1978  5:53 PM

@@ -1,0 +1,11 @@
+Recovery of Disk Contents After System Failure
+A method is discussed by which, after a system
+malfunction, the contents of disk files can
+be restored to their status at the time of the failure.
+CACM August, 1968
+Lockemann, P. C.
+Knutsen, W. D.
+data acquisitition, disk file organization,
+error recovery, file organization
+3.73
+CA680802 JB February 22, 1978  11:14 AM

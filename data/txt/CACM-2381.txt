@@ -1,0 +1,5 @@
+Average Binary Search Length for Dense Ordered Lists (Corrigendum)
+CACM February, 1972
+Flores, I.
+Madpis, G.
+CA720210 JB January 31, 1978  3:40 PM

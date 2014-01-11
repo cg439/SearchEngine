@@ -1,0 +1,9 @@
+Generalized Least Squares Fit By Orthogonal
+Polynomials (Algorithm 296 [E2])
+CACM November, 1969
+Watson, W. T.
+least squares, curve fitting, orthogonal polynomials,
+three-term recurrence, polynomial regression,
+approximation, Forsythe's method
+5.13 5.5
+CA691114 JB February 15, 1978  12:06 PM

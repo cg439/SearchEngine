@@ -1,0 +1,4 @@
+Remove Item From Chain-Linked List (Algorithm 101)
+CACM June, 1962
+Kiviat, P. J.
+CA620613 JB March 17, 1978  9:27 PM

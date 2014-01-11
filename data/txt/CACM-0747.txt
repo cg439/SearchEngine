@@ -1,0 +1,4 @@
+Generation of Permutations in Lexicographical Order (Algorithm 202)
+CACM September, 1963
+Shen, M. K.
+CA630911 JB March 13, 1978  7:31 PM

@@ -1,0 +1,4 @@
+Reversion of Series (Algorithm 193)
+CACM December, 1963
+Thacher Jr., H. C.
+CA631215 JB March 23, 1978  8:08 PM

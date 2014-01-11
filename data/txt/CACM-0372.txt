@@ -1,0 +1,4 @@
+Critical Path Scheduling (Algorithm 40)
+CACM March, 1961
+Leavenworth, B.
+CA610310 JB March 17, 1978  12:36 AM

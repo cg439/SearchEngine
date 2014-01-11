@@ -1,0 +1,6 @@
+A Syntactic Description of BC NELLIAC
+CACM July, 1963
+Huskey, H. D.
+Love, R.
+Wirth, N.
+CA630701 JB March 14, 1978  8:51 AM

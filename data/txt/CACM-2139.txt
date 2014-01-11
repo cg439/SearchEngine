@@ -1,0 +1,14 @@
+Implementation of the Substring Test by Hashing
+A technique is described for implementing the
+test which determines if one string is a substring
+of another.  When there is low probability that the test
+will be satisfied, it is shown how the operation
+can be speeded up considerably if it is preceded by
+a test on appropriately chosen hash codes of the
+strings.
+CACM December, 1971
+Harrison, M. C.
+substring, hashing, subset, signature, information
+compression, information retrieval, searching
+3.74 5.30 5.6
+CA711204 JB February 2, 1978  10:14 AM

@@ -1,0 +1,4 @@
+Procedure for the Normal Distribution Functions (Algorithm 272 [S15])
+CACM December, 1965
+MacLaren, M. D.
+CA651212 JB March 6, 1978  3:37 PM

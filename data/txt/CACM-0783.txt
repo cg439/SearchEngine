@@ -1,0 +1,4 @@
+Shellsort (Algorithm 201)
+CACM August, 1963
+Boothroyd, J.
+CA630815 JB March 13, 1978  8:32 PM

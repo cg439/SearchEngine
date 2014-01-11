@@ -1,0 +1,13 @@
+A Description of the APT Language
+The APT (Automatically Programmed Tools) language
+for numerical control programming is described
+using the metalinguistic notation introduced in the ALGOL
+60 report.  Examples of APT usage are included.
+Presented also are an historical summary of the development
+of APT and a statement concerning its present
+status.
+CACM November, 1963
+Brown, S. A.
+Drayton, C. E.
+Mittman, B.
+CA631101 JB March 13, 1978  3:59 PM

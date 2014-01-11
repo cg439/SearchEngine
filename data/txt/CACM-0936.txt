@@ -1,0 +1,4 @@
+A Set of Test Matrices (Algorithm 52)
+CACM January, 1963
+Naur, P.
+CA630112 JB March 14, 1978  2:35 PM

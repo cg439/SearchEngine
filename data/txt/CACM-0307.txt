@@ -1,0 +1,4 @@
+FIND (Algorithm 65)
+CACM July, 1961
+Hoare, C. A. R.
+CA610710 JB March 16, 1978  10:20 PM

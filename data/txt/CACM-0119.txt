@@ -1,0 +1,4 @@
+Note on Eigenvalue Computation
+CACM November, 1960
+Andrus, J. F.
+CA601116 JB March 20, 1978  6:53 PM

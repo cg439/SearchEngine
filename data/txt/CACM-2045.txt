@@ -1,0 +1,6 @@
+Combinations of M Out of N Objects (Algorithm 382 $G6))
+CACM June, 1970
+Chase, P. J.
+permutations and combinations, permutations
+5.39
+CA700610 JB February 13, 1978  10:38 AM

@@ -1,0 +1,6 @@
+Comment on a Paging Anomaly
+CACM March, 1970
+Dempster, J. R. H.
+paging machines, demand paging, replacement algorithm
+4.30
+CA700313 JB February 13, 1978  3:39 PM

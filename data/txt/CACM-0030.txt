@@ -1,0 +1,5 @@
+Algorithm for Analyzing Logical Statements
+to Produce a Truth Function Table
+CACM March, 1958
+Wolpe, H.
+CA580302 JB March 22, 1978  9:20 PM

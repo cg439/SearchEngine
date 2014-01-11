@@ -1,0 +1,18 @@
+Segment Sizes and Lifetimes in Algol 60 Programs
+The characteristics of the virtual memory requirements
+of a sample of Algol 60 programs have
+been measured.  Distributions are presented for thesizes
+of memory requests and for their holding times
+(lifetimes).  The results are presented in terms of Johnston's
+contour model and a simple abstract machine.
+They provide new empirical evidence of certain aspects
+of the construction and behavior of real programs,
+and some of their implications for the design of virtual
+memory systems are presented and discussed.
+CACM January, 1977
+Batson, A. P.
+Brundage, R. E.
+virtual memory, program behavior, segmentation,
+storage allocation, Algol 60, contour model
+4.22 4.34 4.45 6.21
+CA770105 JB January 3, 1978  12:05 AM

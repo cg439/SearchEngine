@@ -1,0 +1,4 @@
+An Efficient Prime Number Generator (Algorithm R357)
+CACM August, 1973
+DeMorgan, R. M.
+CA730812 JB January 23, 1978  10:31 AM

@@ -1,0 +1,9 @@
+More on Algorithms that Reveal Properties
+of Floating Point Arithmetic Units
+CACM May, 1974
+Gentleman, W. M.
+Marovich, S. B.
+floating-point arithmetic, high-level
+languages, philosophy of language design
+4.9 5.19
+CA740506 JB January 17, 1978  4:04 PM

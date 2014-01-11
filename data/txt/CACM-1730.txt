@@ -1,0 +1,7 @@
+Jacobi Polynomials (Algorithm 332 [S22])
+CACM June, 1968
+Witte, B. F. W.
+Jacobi polynomials, orthogonal polynomials,
+three-term recurrences, special functions
+5.12
+CA680615 JB February 22, 1978  3:17 PM

@@ -1,0 +1,4 @@
+Hankel Function (Algorithm 124)
+CACM September, 1962
+Schaefer, L. J.
+CA620908 JB March 17, 1978  7:34 PM

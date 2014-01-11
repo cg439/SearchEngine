@@ -1,0 +1,5 @@
+A Divisionless Method of Integer Conversion
+CACM July, 1961
+Clarkson, W. K.
+Prince, B. M.
+CA610703 JB March 16, 1978  10:27 PM

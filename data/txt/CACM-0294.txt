@@ -1,0 +1,4 @@
+An Imaginary Number System
+CACM August, 1961
+Knuth, D.
+CA610810 JB March 16, 1978  10:02 PM

@@ -1,0 +1,4 @@
+Hypergeometric and Confluent Hypergeometric (Algorithm 191 & 192)
+CACM April, 1964
+Thacher Jr., H. C.
+CA640417 JB March 10, 1978  12:33 AM

@@ -1,0 +1,4 @@
+Graycode (Algorithm 246 [Z])
+CACM December, 1964
+Boothroyd, J.
+CA641202 JB March 9, 1978  3:44 PM

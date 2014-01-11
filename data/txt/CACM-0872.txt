@@ -1,0 +1,4 @@
+Adaptive Numerical Integration by Simpson's Rule (Algorithm 145)
+CACM April, 1963
+McKeeman, W. M.
+CA630419 JB March 14, 1978  11:49 AM

@@ -1,0 +1,4 @@
+Solution of the Diophantine Equation (Algorithm 139)
+CACM November, 1962
+Peck, J. E. L.
+CA621111 JB March 17, 1978  6:13 PM

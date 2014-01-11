@@ -1,0 +1,7 @@
+Modified Romberg Quadrature(Algorithm [D1])
+CACM June, 1969
+Fair weather, G.
+numerical integration, Romberg quadrature,
+trapezoid values, rectangle values, error bound
+5.16
+CA690610 JB February 17, 1978  9:55 AM

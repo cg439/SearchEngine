@@ -1,0 +1,15 @@
+A Technique for Software Module Specification with Examples
+This paper presents an approach to writing
+specifications for parts of software systems.  The
+main goal is to provide specifications sufficiently
+precise and complete that other pieces of software
+can be written to interact with the piece specified without
+additional information.  The secondary goal
+is to include in the specification no more information
+than necessary to meet the first goal.  The technique
+is illustrated by means of a variety of examples from a tutorial system.
+CACM May, 1972
+Parnas, D. L.
+software, specification, modules, software engineering, software design
+4.0 4.29 4.9
+CA720504 JB January 31, 1978  10:47 AM

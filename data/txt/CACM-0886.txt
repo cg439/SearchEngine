@@ -1,0 +1,4 @@
+XY-move Plotting (Algorithm 162)
+CACM April, 1963
+Stockton, F. G.
+CA630405 JB March 14, 1978  12:27 PM

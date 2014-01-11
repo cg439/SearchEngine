@@ -1,0 +1,4 @@
+A Sparse Matrix Package (Algorithm R408)
+CACM September, 1973
+Lawrence, E. E.
+CA730913 JB January 23, 1978  8:37 AM

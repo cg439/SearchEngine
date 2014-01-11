@@ -1,0 +1,7 @@
+Routing Problem (Algorithm A456)
+CACM September, 1973
+Fencl, Z.
+routing problem, shortest path, traveling
+salesman problem, Hamiltonian circuit
+5.40
+CA730910 JB January 23, 1978  8:47 AM

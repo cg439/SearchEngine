@@ -1,0 +1,7 @@
+Student's t-Distribution (Algorithm 344 [S14])
+CACM January, 1969
+Levine, D. A.
+Student's t-Distribution, t-test, small-sample
+statistics, distribution function
+5.12 5.5
+CA690105 JB February 20, 1978  11:56 AM

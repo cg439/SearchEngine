@@ -1,0 +1,8 @@
+A Note on Some Compiling Algorithms
+Two compiling generators for arithmetic expressions
+are discussed: one presently in use in
+an experimental compiler, and an improvement
+suggested by K. Speierman of Burroughs.
+CACM March, 1964
+Anderson, J. P.
+CA640309 JB March 10, 1978  3:33 AM

@@ -1,0 +1,4 @@
+Q-Bessel Functions (Algorithm 228)
+CACM May, 1964
+Simoes Pereira, J. M. S.
+CA640510 JB March 9, 1978  11:56 PM

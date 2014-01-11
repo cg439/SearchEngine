@@ -1,0 +1,5 @@
+Multi-Dimensional Partition Generator (Algorithm 313 [A1])
+CACM October, 1967
+Bratley, P.
+McKay, J. K. S.
+CA671012b JB March 23, 1978  2:26 PM

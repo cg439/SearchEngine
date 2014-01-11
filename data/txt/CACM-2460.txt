@@ -1,0 +1,4 @@
+Clenshaw-Curtis Quadrature (Algorithm R424)
+CACM August, 1973
+Good, A. J.
+CA730814 JB January 23, 1978  10:29 AM

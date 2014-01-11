@@ -1,0 +1,4 @@
+Tape Splitting in an Iterative Program
+CACM February, 1962
+Weisert, C.
+CA620207 JB March 20, 1978  3:46 PM

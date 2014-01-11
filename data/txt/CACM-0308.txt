@@ -1,0 +1,4 @@
+QUICKSORT (Algorithm 64)
+CACM July, 1961
+Hoare, C. A. R.
+CA610709 JB March 16, 1978  10:21 PM

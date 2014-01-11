@@ -1,0 +1,5 @@
+Rosenbrock Function Minimization (Algorithm R450)
+CACM October, 1974
+Klemes, J.
+Klemsa, J.
+CA741010 JB January 16, 1978  11:09 AM

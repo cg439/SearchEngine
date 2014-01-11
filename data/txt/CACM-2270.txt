@@ -1,0 +1,7 @@
+Interpolation and Smooth Curve Fitting Based
+on Local Procedures [E2] (Algorithm A433)
+CACM October, 1972
+Akima, H.
+interpolation, polynomial, slope of curve, smooth curve fitting
+5.13
+CA721008 JB January 27, 19782:49 PM

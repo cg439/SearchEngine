@@ -1,0 +1,6 @@
+Remark on Stably Updating Mean and Standard Deviation of Data
+CACM August, 1975
+Cotton, I. W.
+mean, standard deviation
+5.5 5.19
+CA750804 JB January 6, 1978  4:40 PM

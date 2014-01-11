@@ -1,0 +1,8 @@
+Note on "An Optimal Evaluation of Boolean Expressions
+in an Online Query System."
+CACM October, 1979
+Gudes, E.
+Hoffman, A.
+Query, Boolean expression, optimal evaluation, information retrieval
+3.50 3.70 3.74
+CA791002 DB January 16, 1980  4:52 PM

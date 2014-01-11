@@ -1,0 +1,23 @@
+A Language Extension for Expressing Constraints on Data Access
+Controlled sharing of information is needed and
+desirable for many applications and is supported
+in operating systems by access control mechanisms.  This
+paper shows how to extend programming languages
+to provide controlled sharing.  The extension permits
+expression of access constraints on shared data.
+Access constraints can apply both to simple objects, and
+to objects that are components of larger objects,
+such as bank account records in a bank's data base.
+The constraints are stated declaratively, and can
+be enforced by static checking similar to type checking.
+The approach can be used to extend any strongly-typed
+language, but is particularly suitable for extending
+languages that support the notion of abstract data
+types.
+CACM May, 1978
+Jones, A.
+Liskov,B.
+Programming languages, access control, data types,
+abstract data types, type checking, capabilities
+4.20 4.35
+CA780502 DH February 26, 1979  3:19 PM

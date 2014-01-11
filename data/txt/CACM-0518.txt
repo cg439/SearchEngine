@@ -1,0 +1,4 @@
+Magic Square (Odd Order) (Algorithm 118)
+CACM August, 1962
+Collison, D. M.
+CA620810 JB March 17, 1978  9:45 PM

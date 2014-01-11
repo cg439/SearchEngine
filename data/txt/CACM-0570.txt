@@ -1,0 +1,4 @@
+Simpson's Rule Integrator (Algorithm 103)
+CACM June, 1962
+Kuncir, G. F.
+CA620615 JB March 17, 1978  9:24 PM

@@ -1,0 +1,6 @@
+A Syntactical Chart of ALGOL 60
+CACM September, 1961
+Taylor, W.
+Turner, L.
+Waychoff, R.
+CA610906JB March 16, 1978  9:43 PM

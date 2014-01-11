@@ -1,0 +1,4 @@
+Evaluation of Polynomials by Computer
+CACM December, 1962
+Knuth, D. E.
+CA621203 JB March 17, 1978  5:16 PM

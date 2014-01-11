@@ -1,0 +1,4 @@
+Allocation of Storage for Arrays in ALGOL 60
+CACM January, 1961
+Sattley, K.
+CA610113 JB March 17, 1978  1:14 AM

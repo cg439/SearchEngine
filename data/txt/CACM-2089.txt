@@ -1,0 +1,7 @@
+Prime Number (Algorithm 310 $A1))
+CACM March, 1970
+Rapp, D. G.
+Scott, L. D.
+prime numbers, generator
+5.0
+CA700309 JB February 13, 1978  3:45 PM

@@ -1,0 +1,5 @@
+A Note on a Method for Generating Points
+Uniformly on N-Dimensional Spheres
+CACM April, 1959
+Muller, M. E.
+CA590405 JB March 22, 1978  7:04 PM

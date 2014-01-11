@@ -1,0 +1,6 @@
+Comment on Computing the k Shortest Paths in a Graph
+CACM August, 1977
+Lawler, E. L.
+graph, network, shortest path, algorithm, ranking
+5.32
+CA770809 JB December 28, 1977  7:00 AM

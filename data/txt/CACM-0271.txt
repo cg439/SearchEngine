@@ -1,0 +1,5 @@
+A Semi-Automatic Storage Allocation System at Loading Time
+CACM October, 1961
+Heising, W. P.
+Larner, R. A.
+CA611010 JB March 16, 1978  12:51 PM

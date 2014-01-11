@@ -1,0 +1,6 @@
+A Generalized Method for Generating Argument/Function Values
+CACM November, 1970
+Wilson, W. J.
+mapping function, decision hierarchy, table look-up
+4.9 5.39
+CA701113 JB February 9, 1978  4:26 PM

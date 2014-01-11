@@ -1,0 +1,4 @@
+Incomplete Beta Function Ratios (Algorithm 222)
+CACM March, 1964
+Gautschi, W.
+CA640302 JB March 10, 1978  3:41 AM

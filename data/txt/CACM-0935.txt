@@ -1,0 +1,4 @@
+Calculating Primes by Means of GPS (Algorithm)
+CACM January, 1963
+Naur, P.
+CA630113 JB March 14, 1978  2:33 PM

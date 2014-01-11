@@ -1,0 +1,8 @@
+Chebyshev Interpolation and Quadrature Formulas of Very High Degree
+CACM May, 1969
+Salzer, H. E.
+Chebyshev polynomials, Chebyshev interpolation,
+Chebyshev quadrature, Chebyshev points, Chebyshev
+zeros, interpolation, quadrature, definite integrals
+5.13 5.16
+CA690506 JB February 17, 1978  3:42 PM

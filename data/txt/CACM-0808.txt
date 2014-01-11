@@ -1,0 +1,4 @@
+Confluent Hypergeometric (Algorithm 192)
+CACM July, 1963
+Relph, A. P.
+CA630716 JB March 14, 1978  8:29 AM

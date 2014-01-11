@@ -1,0 +1,7 @@
+ALGOL Sub-Committee Report - Extensions
+CACM September, 1959
+Dijkstra, E. W.
+Heise, W.
+Perlis, J. A.
+Samelson, K.
+CA590904 JB March 22, 1978  4:49 PM

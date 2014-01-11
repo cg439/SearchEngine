@@ -1,0 +1,15 @@
+Practical Syntactic Error Recovery
+This paper describes a recovery scheme for syntax
+errors which provides automatically-generated
+high quality recovery with good diagnostic information
+at relatively low cost. Previous recovery techniques
+are summarized and empirical comparisons are made.  Suggestions
+for further research on this topic conclude
+the paper.
+CACM November, 1975
+Graham, S. L.
+Rhodes, S. P.
+syntax errors, error recovery, error correction,
+parsing, simple precedence, compilers, debugging
+4.12 4.42 5.23
+CA751104 JB January 6, 1978  9:42 AM

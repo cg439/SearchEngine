@@ -1,0 +1,4 @@
+Exponentiation of Series (Algorithm 134)
+CACM November, 1962
+Fettis, H. E.
+CA621106 JB March 17, 1978  6:52 PM

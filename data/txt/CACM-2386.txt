@@ -1,0 +1,5 @@
+Dynamic Microprogramming: Processor Organization
+and Programming (Corrigendum)
+CACM February, 1972
+Tucker, A. B.
+CA720205 JB January 31, 1978  4:21 PM

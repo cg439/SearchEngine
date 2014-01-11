@@ -1,0 +1,4 @@
+Bessel Functions of the First Kind (Algorithm 236 [S17])
+CACM August, 1964
+Gautschi, W.
+CA640807 JB March 9, 1978  7:19 PM

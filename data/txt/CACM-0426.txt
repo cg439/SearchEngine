@@ -1,0 +1,4 @@
+Term of Magic Square (Algorithm 148)
+CACM December, 1962
+Collison, D. M.
+CA621213 JB March 17, 1978  5:00 PM

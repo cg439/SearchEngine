@@ -1,0 +1,6 @@
+Fitting Data To One Exponential (Algorithm 375 $E2))
+CACM February, 1970
+Spath, H.
+nonlinear least squares fit
+5.15
+CA700213 JB February 14, 1978 9:49 PM

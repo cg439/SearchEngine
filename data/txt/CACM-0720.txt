@@ -1,0 +1,6 @@
+Format-Free Input in FORTRAN
+CACM October, 1963
+Bailey, M. J.
+Barnett, M. P.
+Futrelle, R. P.
+CA631005 JB March 13, 1978  6:26 PM

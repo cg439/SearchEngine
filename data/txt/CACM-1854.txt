@@ -1,0 +1,25 @@
+On Multiprogramming, Machine Coding, and Computer Organization
+The author feels that the interrupt feature
+which is available in most modern computers is
+a potent source of programming pitfalls and errors, and
+that it therefore may heavily contribute to the
+unreliability of programs making use of it.  A programming
+scheme is presented which avoids the concept
+of the interrupt and permits the specification of concurrent
+(or pseudoconcurrent) activities in a supposedly
+more perspicuous manner.  It is intended to serve as
+a basis for the construction of operating systems,
+which are prime examples of programs with concurrent
+activities.  The scheme includes a set of basic
+instructions for the generation, termination, and synchronization
+of parallel processes.  A set of routines
+representing these instructions and thereby simulating a
+hypothetical machine organization has been implemented
+and test on the IBM System/360.  Two programs using these
+instructions, written in PL360, are presented.
+CACM September, 1969
+Wirth, N.
+multiprogramming, parallelism, interrupt, input-output,
+computer organization, file handling, PL360
+4.21 4.22 4.32 4.41 6.21
+CA690901 JB February 15, 1978  5:14 PM

@@ -1,0 +1,4 @@
+Least-Squares Fit by Orthogonal Polynomials (Algorithm 28)
+CACM December, 1961
+MacMillan, D. B.
+CA611204 JB March 15, 1978  10:27 PM

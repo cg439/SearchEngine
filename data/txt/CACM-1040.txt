@@ -1,0 +1,4 @@
+Romberg Integration(Algorithm 60 [D1])
+CACM July, 1964
+Thacher Jr., H. C.
+CA640707 JB March 9, 1978  8:17 PM

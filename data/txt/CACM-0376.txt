@@ -1,0 +1,4 @@
+Tchebycheff (Algorithm 36)
+CACM March, 1961
+Gianni, A. J.
+CA610306 JB March 17, 1978  12:40 AM

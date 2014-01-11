@@ -1,0 +1,5 @@
+Associated Legendre Functions of the First Kind
+for Real or Imaginary Arguments (Algorithm 47)
+CACM August, 1963
+George, R.
+CA630820 JB March 13, 1978  8:26 PM

@@ -1,0 +1,5 @@
+Complementary Error Function-Large X (Algorithm 181 [S15])
+CACM June, 1967
+Hill, I. D.
+Joyce, S. A.
+CA670607i JB March 23, 1978  3:37 PM

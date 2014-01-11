@@ -1,0 +1,4 @@
+Normal Probability for Curve Fitting (Algorithm 185)
+CACM July, 1963
+Colker, A.
+CA630709 JB March 14, 1978  8:38 AM

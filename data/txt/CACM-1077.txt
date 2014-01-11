@@ -1,0 +1,4 @@
+Chebyshev Curve Fit (Algorithm 91)
+CACM May, 1964
+Naur, P.
+CA640512 JB March 9, 1978  11:53 PM

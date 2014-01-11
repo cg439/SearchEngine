@@ -1,0 +1,4 @@
+Incomplete Beta Ratio (Algorithm 179)
+CACM June, 1963
+Ludwig, O. G.
+CA630612 JB March 14, 1978  10:15 AM

@@ -1,0 +1,4 @@
+Tridiagonal Matrix (Algorithm 122)
+CACM September, 1962
+Dietzel, G. F.
+CA620906 JB March 17, 1978  7:36 PM

@@ -1,0 +1,17 @@
+Reducing the Retrieval Time of Scatter Storage Techniques
+A new method for entering and retrieving information
+in a hash table is described.  The method
+is intended to be efficient if most entries are looked
+up several times.  The expected number of probes
+to look up an entry, predicted theoretically and verified
+by Monte Carlo experiments, is considerably
+less than for other comparable methods if the table
+is nearly full.  An example of a possible Fortran
+implementation is given.
+CACM February, 1973
+Brent, R. P.
+address calculation, content addressing, file searching,
+hash addressing, hash code, linear probing,
+linear quotient method, scatter storage, searching, symbol table
+3.7 3.73 3.74 4.1 4.9
+CA730205 JB January 24, 1978  2:12 PM

@@ -1,0 +1,4 @@
+Graph Plotter (Algorithm R412)
+CACM August, 1973
+Watkins, R. P.
+CA730813 JB January 23, 1978  10:30 AM

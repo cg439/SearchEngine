@@ -1,0 +1,4 @@
+Logarithm of a Complex Number (Algorithm 243 [B3])
+CACM May, 1965
+Boothroyd, J.
+CA650502 JB March 7, 1978  3:11 PM

@@ -1,0 +1,4 @@
+Procedures for Range Arithmetic (Algorithm 61)
+CACM July, 1961
+Gibb, A.
+CA610706 JB March 16, 1978  10:25 PM

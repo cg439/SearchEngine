@@ -1,0 +1,4 @@
+Evaluation of the Hermite Polynomial Hn(X) by Recursion (Algorithm)
+CACM June, 1960
+Galler, G. M.
+CA600609 JB March 20, 1978  9:37 PM

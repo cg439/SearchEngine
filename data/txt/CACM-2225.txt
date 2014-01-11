@@ -1,0 +1,7 @@
+Circular Integer Partitioning [A1] (Algorithm 403)
+CACM January, 1971
+Coleman, M. W.
+Taylor, M. S.
+partitions, combinatorics, statistical design of experiments
+5.39 5.5
+CA710109 JB February 8, 1978  10:27 AM

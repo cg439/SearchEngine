@@ -1,0 +1,5 @@
+Normal Distribution Function (Algorithm 226 [S15])
+CACM June, 1967
+Hill, I. D.
+Joyce, S. A.
+CA670607k JB March 23, 1978  3:39 PM

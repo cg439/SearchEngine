@@ -1,0 +1,4 @@
+Polynomial Transformer (Algorithm 29)
+CACM November, 1960
+Mackinney, J. G.
+CA601110 JB March 20, 1978  7:06 PM

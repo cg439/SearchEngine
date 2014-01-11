@@ -1,0 +1,6 @@
+Number of Doubly Restricted Partitions (Algorithm 373 $A1))
+CACM February, 1970
+White, J. S.
+partitions, restricted partitions, sums of integers, restricted sums
+5.39
+CA700211 JB February 14, 1978  9:52 AM

@@ -1,0 +1,6 @@
+Minimax Logarithmic Error
+CACM October, 1969
+Dunham, C. B.
+logarithmic error, transformed rational approximation, square root
+5.10
+CA691014 JB February 15, 1978  1:38 PM

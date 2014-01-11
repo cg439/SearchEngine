@@ -1,0 +1,5 @@
+Chebyshev Interpolation and Quadrature
+Formulas of Very High Degree (Errata)
+CACM July, 1969
+Salzer, H. E.
+CA690708 JB February 17, 1978  9:01 AM
