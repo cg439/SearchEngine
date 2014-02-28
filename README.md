@@ -1,7 +1,7 @@
 SearchEngine
 ============
 
-Search engine for collection of CACM text files which utilizes the Lucene open source library to test out various information retrieval techniques to improve quality of results.
+Search engine for collection of CACM text files which utilizes the Lucene open source library's tokenizer, stopword filters, and stemming filters to test out various information retrieval techniques to improve quality of results.
 
 Techniques used include clustering based on MI, EMI, dice and chi-square association measures, Vector Space Model based on a cosine similarity measure with generic tf-idf vectors, stop word filtering, stemming using Porter Stemming algorithm, and query expansion techniques.
 
